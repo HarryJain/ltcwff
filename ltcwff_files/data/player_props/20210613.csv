@@ -1,0 +1,138 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,Kevin Durant,Points,32.5,-104,32.5,-116
+1,Kyrie Irving,Points,28.5,-104,28.5,-116
+2,Joe Harris,Points,12.5,-122,12.5,100
+3,Blake Griffin,Points,9.5,102,9.5,-124
+4,Giannis Antetokounmpo,Points,33.5,-106,33.5,-116
+5,Khris Middleton,Points,23.5,-122,23.5,100
+6,Jrue Holiday,Points,18.5,-112,18.5,-108
+7,Brook Lopez,Points,13.5,100,13.5,-122
+8,P.J Tucker,Points,3.5,-110,3.5,-110
+9,Bryn Forbes,Points,8.5,-102,8.5,-120
+10,Bruce Brown,Points,11.5,102,11.5,-124
+11,Bobby Portis,Points,6.5,-138,6.5,114
+12,Blake Griffin,Rebounds,6.5,-106,6.5,-114
+13,P.J Tucker,Rebounds,3.5,-128,3.5,104
+14,Brook Lopez,Rebounds,6.5,114,6.5,-140
+15,Joe Harris,Rebounds,3.5,-112,3.5,-108
+16,Khris Middleton,Rebounds,7.5,-108,7.5,-112
+17,Giannis Antetokounmpo,Rebounds,13.5,-108,13.5,-112
+18,Jrue Holiday,Rebounds,5.5,118,5.5,-144
+19,Kevin Durant,Rebounds,8.5,-130,8.5,106
+20,Kyrie Irving,Rebounds,4.5,-142,4.5,116
+21,Bryn Forbes,Rebounds,1.5,-122,1.5,100
+22,Bruce Brown,Rebounds,6.5,-134,6.5,110
+23,Jrue Holiday,Assists,7.5,118,7.5,-144
+24,Khris Middleton,Assists,4.5,-108,4.5,-112
+25,Giannis Antetokounmpo,Assists,5.5,108,5.5,-132
+26,Kyrie Irving,Assists,5.5,-142,5.5,116
+27,Kevin Durant,Assists,5.5,-140,5.5,114
+28,Joe Harris,Assists,1.5,-140,1.5,114
+29,Blake Griffin,Assists,2.5,104,2.5,-128
+30,P.J Tucker,Assists,0.5,-210,0.5,164
+31,Bruce Brown,Assists,2.5,116,2.5,-144
+32,Khris Middleton,Made Threes,2.5,-136,2.5,106
+33,Kevin Durant,Made Threes,3.5,112,3.5,-142
+34,P.J Tucker,Made Threes,0.5,-120,0.5,-106
+35,Giannis Antetokounmpo,Made Threes,1.5,140,1.5,-180
+36,Brook Lopez,Made Threes,0.5,-162,0.5,126
+37,Blake Griffin,Made Threes,1.5,118,1.5,-150
+38,Jrue Holiday,Made Threes,1.5,-180,1.5,140
+39,Joe Harris,Made Threes,3.5,122,3.5,-156
+40,Kyrie Irving,Made Threes,3.5,-130,3.5,102
+41,Bryn Forbes,Made Threes,1.5,-200,1.5,154
+42,Nikola Jokic,Points,29.5,-106,29.5,-116
+43,Devin Booker,Points,26.5,-116,26.5,-106
+44,Chris Paul,Points,17.5,100,17.5,-122
+45,Michael Porter Jr.,Points,17.5,-124,17.5,102
+46,Deandre Ayton,Points,14.5,-114,14.5,-108
+47,Mikal Bridges,Points,12.5,-104,12.5,-118
+48,Jae Crowder,Points,11.5,104,11.5,-128
+49,Aaron Gordon,Points,11.5,-106,11.5,-116
+50,Facundo Campazzo,Points,7.5,-110,7.5,-110
+51,Austin Rivers,Points,7.5,-116,7.5,-106
+52,Monte Morris,Points,11.5,-106,11.5,-116
+53,Cameron Payne,Points,8.5,-110,8.5,-110
+54,Torrey Craig,Points,5.5,112,5.5,-136
+55,Will Barton,Points,14.5,-120,14.5,-102
+56,Nikola Jokic,Rebounds,12.5,108,12.5,-132
+57,Devin Booker,Rebounds,5.5,116,5.5,-142
+58,Chris Paul,Rebounds,4.5,-128,4.5,104
+59,Michael Porter Jr.,Rebounds,6.5,-110,6.5,-110
+60,Deandre Ayton,Rebounds,10.5,-105,10.5,-115
+61,Mikal Bridges,Rebounds,3.5,-130,3.5,106
+62,Jae Crowder,Rebounds,4.5,102,4.5,-124
+63,Aaron Gordon,Rebounds,5.5,-134,5.5,110
+64,Facundo Campazzo,Rebounds,2.5,-152,2.5,124
+65,Austin Rivers,Rebounds,1.5,-180,1.5,146
+66,Monte Morris,Rebounds,2.5,132,2.5,-162
+67,Cameron Payne,Rebounds,2.5,136,2.5,-168
+68,Nikola Jokic,Assists,7.5,-110,7.5,-110
+69,Devin Booker,Assists,3.5,-150,3.5,122
+70,Chris Paul,Assists,9.5,-118,9.5,-104
+71,Deandre Ayton,Assists,0.5,-215,0.5,172
+72,Mikal Bridges,Assists,1.5,-134,1.5,110
+73,Jae Crowder,Assists,2.5,140,2.5,-172
+74,Aaron Gordon,Assists,1.5,-168,1.5,136
+75,Facundo Campazzo,Assists,3.5,-122,3.5,100
+76,Austin Rivers,Assists,1.5,-105,1.5,-115
+77,Monte Morris,Assists,3.5,-114,3.5,-106
+78,Cameron Payne,Assists,2.5,100,2.5,-122
+79,Nikola Jokic,Made Threes,1.5,-160,1.5,124
+80,Devin Booker,Made Threes,2.5,132,2.5,-170
+81,Chris Paul,Made Threes,1.5,118,1.5,-150
+82,Michael Porter Jr.,Made Threes,2.5,-136,2.5,106
+83,Mikal Bridges,Made Threes,1.5,-184,1.5,142
+84,Jae Crowder,Made Threes,2.5,-132,2.5,104
+85,Aaron Gordon,Made Threes,0.5,-172,0.5,134
+86,Facundo Campazzo,Made Threes,1.5,138,1.5,-178
+87,Austin Rivers,Made Threes,1.5,-106,1.5,-120
+88,Monte Morris,Made Threes,1.5,150,1.5,-194
+89,Nikola Jokic,Reb + Ast,19.5,-122,19.5,-104
+90,Devin Booker,Reb + Ast,9.5,100,9.5,-128
+91,Chris Paul,Reb + Ast,14.5,-113,14.5,-113
+92,Michael Porter Jr.,Reb + Ast,7.5,-130,7.5,102
+93,Deandre Ayton,Reb + Ast,11.5,-118,11.5,-108
+94,Mikal Bridges,Reb + Ast,5.5,-118,5.5,-108
+95,Nikola Jokic,Pts + Ast,37.5,-102,37.5,-125
+96,Devin Booker,Pts + Ast,30.5,-122,30.5,-104
+97,Chris Paul,Pts + Ast,26.5,-122,26.5,-104
+98,Michael Porter Jr.,Pts + Ast,19.5,-104,19.5,-122
+99,Deandre Ayton,Pts + Ast,15.5,-120,15.5,-106
+100,Mikal Bridges,Pts + Ast,14.5,100,14.5,-128
+101,Nikola Jokic,Pts + Reb,41.5,-118,41.5,-108
+102,Devin Booker,Pts + Reb,32.5,-106,32.5,-120
+103,Chris Paul,Pts + Reb,22.5,-102,22.5,-125
+104,Michael Porter Jr.,Pts + Reb,24.5,-122,24.5,-104
+105,Deandre Ayton,Pts + Reb,25.5,-113,25.5,-113
+106,Mikal Bridges,Pts + Reb,16.5,-106,16.5,-120
+107,Nikola Jokic,Pts + Reb + Ast,49.5,-111,49.5,-115
+108,Devin Booker,Pts + Reb + Ast,36.5,-108,36.5,-118
+109,Chris Paul,Pts + Reb + Ast,31.5,-122,31.5,-104
+110,Michael Porter Jr.,Pts + Reb + Ast,26.5,-104,26.5,-122
+111,Deandre Ayton,Pts + Reb + Ast,26.5,-113,26.5,-113
+112,Mikal Bridges,Pts + Reb + Ast,18.5,-104,18.5,-122
+113,Jae Crowder,Pts + Ast,13.5,-106,13.5,-120
+114,Aaron Gordon,Pts + Ast,13.5,-108,13.5,-118
+115,Facundo Campazzo,Pts + Ast,11.5,-108,11.5,-118
+116,Austin Rivers,Pts + Ast,9.5,-104,9.5,-122
+117,Monte Morris,Pts + Ast,15.5,-104,15.5,-122
+118,Cameron Payne,Pts + Ast,11.5,100,11.5,-128
+119,Jae Crowder,Pts + Reb,15.5,-118,15.5,-108
+120,Aaron Gordon,Pts + Reb,17.5,-108,17.5,-118
+121,Facundo Campazzo,Pts + Reb,10.5,-120,10.5,-106
+122,Austin Rivers,Pts + Reb,9.5,-128,9.5,100
+123,Monte Morris,Pts + Reb,13.5,-122,13.5,-104
+124,Cameron Payne,Pts + Reb,10.5,-128,10.5,100
+125,Jae Crowder,Pts + Reb + Ast,18.5,102,18.5,-130
+126,Aaron Gordon,Pts + Reb + Ast,19.5,-111,19.5,-115
+127,Facundo Campazzo,Pts + Reb + Ast,14.5,-115,14.5,-111
+128,Austin Rivers,Pts + Reb + Ast,11.5,-115,11.5,-111
+129,Monte Morris,Pts + Reb + Ast,17.5,-115,17.5,-111
+130,Cameron Payne,Pts + Reb + Ast,13.5,-113,13.5,-113
+131,Jae Crowder,Reb + Ast,6.5,-115,6.5,-111
+132,Aaron Gordon,Reb + Ast,7.5,-136,7.5,106
+133,Facundo Campazzo,Reb + Ast,6.5,-128,6.5,100
+134,Austin Rivers,Reb + Ast,3.5,-128,3.5,100
+135,Monte Morris,Reb + Ast,5.5,-138,5.5,108
+136,Cameron Payne,Reb + Ast,4.5,-128,4.5,100

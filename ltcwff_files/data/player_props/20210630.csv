@@ -1,0 +1,82 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,Devin Booker,Points,27.5,-116,27.5,-104
+1,Chris Paul,Points,19.5,-108,19.5,-112
+2,Deandre Ayton,Points,16.5,-110,16.5,-110
+3,Mikal Bridges,Points,11.5,-102,11.5,-120
+4,Jae Crowder,Points,9.5,100,9.5,-122
+5,Paul George,Points,30.5,-110,30.5,-110
+6,Reggie Jackson,Points,20.5,-122,20.5,100
+7,Patrick Beverley,Points,7.5,112,7.5,-136
+8,Marcus Morris,Points,14.5,-102,14.5,-118
+9,Terance Mann,Points,10.5,-116,10.5,-106
+10,Cameron Payne,Points,7.5,106,7.5,-130
+11,Cameron Johnson,Points,7.5,-112,7.5,-108
+12,Paul George,Rebounds,9.5,-144,9.5,118
+13,Chris Paul,Rebounds,4.5,110,4.5,-134
+14,Reggie Jackson,Rebounds,4.5,116,4.5,-142
+15,Devin Booker,Rebounds,5.5,102,5.5,-124
+16,Deandre Ayton,Rebounds,11.5,100,11.5,-122
+17,Mikal Bridges,Rebounds,4.5,124,4.5,-152
+18,Jae Crowder,Rebounds,5.5,120,5.5,-148
+19,Marcus Morris,Rebounds,5.5,116,5.5,-142
+20,Patrick Beverley,Rebounds,3.5,-152,3.5,124
+21,Terance Mann,Rebounds,3.5,-144,3.5,118
+22,Devin Booker,Assists,4.5,118,4.5,-144
+23,Chris Paul,Assists,8.5,-140,8.5,112
+24,Paul George,Assists,6.5,112,6.5,-138
+25,Reggie Jackson,Assists,3.5,-154,3.5,126
+26,Deandre Ayton,Assists,1.5,184,1.5,-230
+27,Patrick Beverley,Assists,1.5,-164,1.5,134
+28,Jae Crowder,Assists,1.5,-124,1.5,102
+29,Marcus Morris,Assists,1.5,-105,1.5,-115
+30,Mikal Bridges,Assists,1.5,114,1.5,-140
+31,Terance Mann,Assists,1.5,152,1.5,-188
+32,Paul George,Made Threes,3.5,134,3.5,-172
+33,Reggie Jackson,Made Threes,3.5,130,3.5,-166
+34,Devin Booker,Made Threes,2.5,146,2.5,-188
+35,Chris Paul,Made Threes,1.5,106,1.5,-136
+36,Mikal Bridges,Made Threes,1.5,-128,1.5,100
+37,Jae Crowder,Made Threes,2.5,152,2.5,-196
+38,Marcus Morris,Made Threes,1.5,-184,1.5,142
+39,Patrick Beverley,Made Threes,1.5,154,1.5,-200
+40,Terance Mann,Made Threes,0.5,-265,0.5,200
+41,Reggie Jackson,Reb + Ast,8.5,100,8.5,-128
+42,Paul George,Reb + Ast,16.5,-104,16.5,-122
+43,Devin Booker,Reb + Ast,9.5,-120,9.5,-106
+44,Chris Paul,Reb + Ast,13.5,-104,13.5,-122
+45,Patrick Beverley,Reb + Ast,6.5,114,6.5,-146
+46,Marcus Morris,Reb + Ast,6.5,-128,6.5,100
+47,Devin Booker,Pts + Ast,31.5,-125,31.5,-102
+48,Chris Paul,Pts + Ast,28.5,-113,28.5,-113
+49,Paul George,Pts + Ast,36.5,-120,36.5,-108
+50,Reggie Jackson,Pts + Ast,25.5,-104,25.5,-122
+51,Patrick Beverley,Pts + Ast,9.5,104,9.5,-132
+52,Marcus Morris,Pts + Ast,15.5,-128,15.5,100
+53,Devin Booker,Pts + Reb,33.5,-106,33.5,-120
+54,Chris Paul,Pts + Reb,23.5,-122,23.5,-104
+55,Deandre Ayton,Pts + Reb,28.5,-102,28.5,-125
+56,Mikal Bridges,Pts + Reb,15.5,-115,15.5,-111
+57,Jae Crowder,Pts + Reb,14.5,-113,14.5,-113
+58,Paul George,Pts + Reb,40.5,-115,40.5,-111
+59,Devin Booker,Pts + Reb + Ast,37.5,-113,37.5,-113
+60,Chris Paul,Pts + Reb + Ast,32.5,-122,32.5,-104
+61,Paul George,Pts + Reb + Ast,46.5,-108,46.5,-118
+62,Reggie Jackson,Pts + Reb + Ast,29.5,-113,29.5,-113
+63,Patrick Beverley,Pts + Reb + Ast,13.5,-111,13.5,-115
+64,Marcus Morris,Pts + Reb + Ast,21.5,-108,21.5,-118
+65,Deandre Ayton,Pts + Ast,17.5,-115,17.5,-111
+66,Jae Crowder,Pts + Ast,11.5,106,11.5,-136
+67,Mikal Bridges,Pts + Ast,12.5,-128,12.5,100
+68,Terance Mann,Pts + Ast,11.5,-130,11.5,102
+69,Reggie Jackson,Pts + Reb,25.5,-108,25.5,-118
+70,Patrick Beverley,Pts + Reb,11.5,-106,11.5,-120
+71,Marcus Morris,Pts + Reb,19.5,-118,19.5,-108
+72,Terance Mann,Pts + Reb,14.5,-120,14.5,-106
+73,Deandre Ayton,Pts + Reb + Ast,29.5,-106,29.5,-120
+74,Jae Crowder,Pts + Reb + Ast,16.5,-108,16.5,-118
+75,Mikal Bridges,Pts + Reb + Ast,17.5,-104,17.5,-122
+76,Terance Mann,Pts + Reb + Ast,16.5,100,16.5,-128
+77,Deandre Ayton,Reb + Ast,12.5,-111,12.5,-115
+78,Jae Crowder,Reb + Ast,6.5,-130,6.5,102
+79,Mikal Bridges,Reb + Ast,5.5,-115,5.5,-111
+80,Terance Mann,Reb + Ast,5.5,108,5.5,-138

@@ -1,0 +1,79 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,Trae Young,Reb + Ast,12.5,-136,12.5,106
+1,John Collins,Reb + Ast,7.5,-102,7.5,-125
+2,De'Andre Hunter,Reb + Ast,5.5,-122,5.5,-104
+3,Clint Capela,Reb + Ast,13.5,-138,13.5,108
+4,Bogdan Bogdanovic,Reb + Ast,8.5,-108,8.5,-118
+5,Ben Simmons,Reb + Ast,16.5,-130,16.5,102
+6,Trae Young,Pts + Ast,35.5,-122,35.5,-104
+7,Bogdan Bogdanovic,Pts + Ast,20.5,100,20.5,-128
+8,John Collins,Pts + Ast,14.5,-128,14.5,100
+9,Clint Capela,Pts + Ast,13.5,-118,13.5,-108
+10,De'Andre Hunter,Pts + Ast,13.5,-122,13.5,-104
+11,Ben Simmons,Pts + Ast,23.5,-115,23.5,-111
+12,Trae Young,Pts + Reb,30.5,-102,30.5,-125
+13,Bogdan Bogdanovic,Pts + Reb,21.5,-111,21.5,-115
+14,John Collins,Pts + Reb,20.5,-122,20.5,-104
+15,Clint Capela,Pts + Reb,26.5,-113,26.5,-113
+16,De'Andre Hunter,Pts + Reb,16.5,-125,16.5,-102
+17,Ben Simmons,Pts + Reb,24.5,-118,24.5,-108
+18,Trae Young,Pts + Reb + Ast,39.5,-113,39.5,-113
+19,Bogdan Bogdanovic,Pts + Reb + Ast,25.5,-102,25.5,-125
+20,John Collins,Pts + Reb + Ast,21.5,-115,21.5,-111
+21,Clint Capela,Pts + Reb + Ast,27.5,-104,27.5,-122
+22,De'Andre Hunter,Pts + Reb + Ast,18.5,-108,18.5,-118
+23,Ben Simmons,Pts + Reb + Ast,32.5,-118,32.5,-108
+24,Tobias Harris,Pts + Ast,28.5,-106,28.5,-120
+25,Danny Green,Pts + Ast,11.5,-115,11.5,-111
+26,Seth Curry,Pts + Ast,16.5,-122,16.5,-104
+27,Tobias Harris,Pts + Reb,33.5,-104,33.5,-122
+28,Danny Green,Pts + Reb,13.5,-125,13.5,-102
+29,Seth Curry,Pts + Reb,17.5,100,17.5,-128
+30,Danilo Gallinari,Pts + Reb,14.5,-111,14.5,-115
+31,Tobias Harris,Pts + Reb + Ast,36.5,-125,36.5,-102
+32,Danny Green,Pts + Reb + Ast,15.5,-118,15.5,-108
+33,Seth Curry,Pts + Reb + Ast,19.5,-118,19.5,-108
+34,Tobias Harris,Reb + Ast,12.5,-120,12.5,-106
+35,Danny Green,Reb + Ast,5.5,-120,5.5,-108
+36,Seth Curry,Reb + Ast,5.5,114,5.5,-146
+37,Luka Doncic,Reb + Ast,18.5,-113,18.5,-113
+38,Paul George,Reb + Ast,13.5,-120,13.5,-106
+39,Kawhi Leonard,Reb + Ast,13.5,-102,13.5,-125
+40,Reggie Jackson,Reb + Ast,7.5,102,7.5,-130
+41,Marcus Morris,Reb + Ast,6.5,114,6.5,-146
+42,Nicolas Batum,Reb + Ast,7.5,-122,7.5,-104
+43,Luka Doncic,Pts + Ast,42.5,-115,42.5,-111
+44,Kawhi Leonard,Pts + Ast,37.5,-104,37.5,-122
+45,Paul George,Pts + Ast,30.5,-104,30.5,-122
+46,Reggie Jackson,Pts + Ast,18.5,100,18.5,-128
+47,Marcus Morris,Pts + Ast,13.5,-130,13.5,102
+48,Nicolas Batum,Pts + Ast,10.5,-130,10.5,102
+49,Luka Doncic,Pts + Reb,40.5,-115,40.5,-111
+50,Kristaps Porzingis,Pts + Reb,20.5,-106,20.5,-120
+51,Kawhi Leonard,Pts + Reb,40.5,-118,40.5,-108
+52,Paul George,Pts + Reb,34.5,-115,34.5,-111
+53,Marcus Morris,Pts + Reb,17.5,-125,17.5,-102
+54,Reggie Jackson,Pts + Reb,18.5,-128,18.5,100
+55,Luka Doncic,Pts + Reb + Ast,50.5,-122,50.5,-104
+56,Kawhi Leonard,Pts + Reb + Ast,45.5,-118,45.5,-108
+57,Paul George,Pts + Reb + Ast,39.5,-111,39.5,-115
+58,Reggie Jackson,Pts + Reb + Ast,22.5,-108,22.5,-118
+59,Marcus Morris,Pts + Reb + Ast,19.5,-102,19.5,-125
+60,Nicolas Batum,Pts + Reb + Ast,17.5,100,17.5,-128
+61,Dorian Finney-Smith,Pts + Ast,11.5,100,11.5,-128
+62,Kristaps Porzingis,Pts + Ast,15.5,-106,15.5,-120
+63,Tim Hardaway Jr,Pts + Ast,21.5,-102,21.5,-125
+64,Jalen Brunson,Pts + Ast,8.5,-111,8.5,-115
+65,Nicolas Batum,Pts + Reb,15.5,-102,15.5,-125
+66,Dorian Finney-Smith,Pts + Reb,14.5,-118,14.5,-108
+67,Tim Hardaway Jr,Pts + Reb,22.5,-115,22.5,-111
+68,Boban Marjanovic,Pts + Reb,14.5,-115,14.5,-111
+69,Jalen Brunson,Pts + Reb,8.5,-130,8.5,102
+70,Dorian Finney-Smith,Pts + Reb + Ast,16.5,-113,16.5,-113
+71,Kristaps Porzingis,Pts + Reb + Ast,21.5,-113,21.5,-113
+72,Tim Hardaway Jr,Pts + Reb + Ast,24.5,-111,24.5,-115
+73,Jalen Brunson,Pts + Reb + Ast,10.5,-115,10.5,-111
+74,Dorian Finney-Smith,Reb + Ast,6.5,-142,6.5,112
+75,Kristaps Porzingis,Reb + Ast,7.5,110,7.5,-140
+76,Tim Hardaway Jr,Reb + Ast,4.5,-148,4.5,116
+77,Jalen Brunson,Reb + Ast,3.5,-122,3.5,-104

@@ -1,0 +1,82 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,Kyrie Irving,Reb + Ast,12.5,-115,12.5,-111
+1,Blake Griffin,Reb + Ast,9.5,-132,9.5,104
+2,Kevin Durant,Reb + Ast,14.5,-125,14.5,-102
+3,Khris Middleton,Reb + Ast,11.5,104,11.5,-132
+4,Giannis Antetokounmpo,Reb + Ast,18.5,102,18.5,-130
+5,Jrue Holiday,Reb + Ast,12.5,-115,12.5,-108
+6,Giannis Antetokounmpo,Pts + Ast,40.5,-111,40.5,-115
+7,Khris Middleton,Pts + Ast,27.5,-113,27.5,-113
+8,Jrue Holiday,Pts + Ast,27.5,-113,27.5,-113
+9,Kevin Durant,Pts + Ast,38.5,-113,38.5,-113
+10,Kyrie Irving,Pts + Ast,36.5,-111,36.5,-115
+11,Blake Griffin,Pts + Ast,15.5,-102,15.5,-125
+12,Giannis Antetokounmpo,Pts + Reb,46.5,-122,46.5,-104
+13,Khris Middleton,Pts + Reb,29.5,-113,29.5,-113
+14,Jrue Holiday,Pts + Reb,25.5,-111,25.5,-115
+15,Kevin Durant,Pts + Reb,41.5,-113,41.5,-113
+16,Kyrie Irving,Pts + Reb,34.5,-120,34.5,-106
+17,Blake Griffin,Pts + Reb,18.5,-125,18.5,-102
+18,G Antetokounmpo,Pts + Reb + Ast,52.5,-120,52.5,-106
+19,Khris Middleton,Pts + Reb + Ast,34.5,-108,34.5,-118
+20,Jrue Holiday,Pts + Reb + Ast,32.5,-122,32.5,-104
+21,Kevin Durant,Pts + Reb + Ast,47.5,-113,47.5,-113
+22,Kyrie Irving,Pts + Reb + Ast,42.5,-104,42.5,-122
+23,Blake Griffin,Pts + Reb + Ast,22.5,-104,22.5,-122
+24,Bruce Brown,Pts + Ast,10.5,-118,10.5,-108
+25,Joe Harris,Pts + Ast,16.5,100,16.5,-128
+26,Brook Lopez,Pts + Ast,14.5,-125,14.5,-102
+27,Bobby Portis,Pts + Ast,8.5,-136,8.5,106
+28,Bruce Brown,Pts + Reb,14.5,-128,14.5,100
+29,Joe Harris,Pts + Reb,18.5,-102,18.5,-125
+30,Brook Lopez,Pts + Reb,20.5,100,20.5,-128
+31,Bobby Portis,Pts + Reb,14.5,-106,14.5,-120
+32,P.J Tucker,Pts + Reb,8.5,-106,8.5,-120
+33,Bruce Brown,Pts + Reb + Ast,16.5,-111,16.5,-115
+34,Joe Harris,Pts + Reb + Ast,20.5,-106,20.5,-120
+35,Brook Lopez,Pts + Reb + Ast,20.5,-113,20.5,-113
+36,Bobby Portis,Pts + Reb + Ast,14.5,-128,14.5,100
+37,Bruce Brown,Reb + Ast,7.5,-128,7.5,100
+38,Joe Harris,Reb + Ast,6.5,114,6.5,-146
+39,Brook Lopez,Reb + Ast,5.5,-146,5.5,114
+40,Bobby Portis,Reb + Ast,6.5,-102,6.5,-125
+41,Mikal Bridges,Reb + Ast,6.5,112,6.5,-142
+42,Aaron Gordon,Reb + Ast,8.5,-115,8.5,-111
+43,Michael Porter Jr.,Reb + Ast,8.5,-102,8.5,-125
+44,Devin Booker,Reb + Ast,9.5,-130,9.5,100
+45,Deandre Ayton,Reb + Ast,11.5,-122,11.5,-104
+46,Nikola Jokic,Reb + Ast,18.5,-111,18.5,-115
+47,Nikola Jokic,Pts + Ast,37.5,-115,37.5,-111
+48,Michael Porter Jr.,Pts + Ast,21.5,-113,21.5,-113
+49,Aaron Gordon,Pts + Ast,14.5,-104,14.5,-122
+50,Devin Booker,Pts + Ast,34.5,-118,34.5,-108
+51,Deandre Ayton,Pts + Ast,15.5,-118,15.5,-108
+52,Mikal Bridges,Pts + Ast,13.5,-122,13.5,-104
+53,Nikola Jokic,Pts + Reb,41.5,-115,41.5,-111
+54,Michael Porter Jr.,Pts + Reb,27.5,-113,27.5,-113
+55,Aaron Gordon,Pts + Reb,18.5,-108,18.5,-118
+56,Devin Booker,Pts + Reb,35.5,-106,35.5,-120
+57,Deandre Ayton,Pts + Reb,25.5,-120,25.5,-104
+58,Mikal Bridges,Pts + Reb,16.5,-122,16.5,-104
+59,Nikola Jokic,Pts + Reb + Ast,48.5,-122,48.5,-104
+60,Michael Porter Jr.,Pts + Reb + Ast,28.5,-122,28.5,-104
+61,Aaron Gordon,Pts + Reb + Ast,20.5,-118,20.5,-108
+62,Devin Booker,Pts + Reb + Ast,40.5,-104,40.5,-122
+63,Deandre Ayton,Pts + Reb + Ast,26.5,-113,26.5,-113
+64,Mikal Bridges,Pts + Reb + Ast,18.5,-118,18.5,-108
+65,Jae Crowder,Pts + Ast,13.5,-125,13.5,-102
+66,Chris Paul,Pts + Ast,22.5,-108,22.5,-120
+67,Austin Rivers,Pts + Ast,12.5,-113,12.5,-113
+68,Facundo Campazzo,Pts + Ast,12.5,-113,12.5,-113
+69,Jae Crowder,Pts + Reb,16.5,-115,16.5,-111
+70,Chris Paul,Pts + Reb,17.5,-125,17.5,-102
+71,Austin Rivers,Pts + Reb,12.5,-130,12.5,102
+72,Facundo Campazzo,Pts + Reb,10.5,-132,10.5,104
+73,Jae Crowder,Pts + Reb + Ast,19.5,-102,19.5,-125
+74,Chris Paul,Pts + Reb + Ast,26.5,-118,26.5,-108
+75,Austin Rivers,Pts + Reb + Ast,15.5,-111,15.5,-115
+76,Facundo Campazzo,Pts + Reb + Ast,15.5,-115,15.5,-111
+77,Jae Crowder,Reb + Ast,7.5,-102,7.5,-125
+78,Chris Paul,Reb + Ast,12.5,-122,12.5,-104
+79,Austin Rivers,Reb + Ast,4.5,-150,4.5,118
+80,Facundo Campazzo,Reb + Ast,7.5,-104,7.5,-122

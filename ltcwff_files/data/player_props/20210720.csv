@@ -1,0 +1,86 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,Devin Booker,Points,31.5,-102,31.5,-120
+1,Chris Paul,Points,20.5,-120,20.5,-102
+2,Deandre Ayton,Points,16.5,-106,16.5,-116
+3,Mikal Bridges,Points,11.5,100,11.5,-122
+4,Jae Crowder,Points,10.5,-118,10.5,-104
+5,Giannis Antetokounmpo,Points,32.5,-116,32.5,-104
+6,Khris Middleton,Points,25.5,-112,25.5,-108
+7,Jrue Holiday,Points,19.5,-112,19.5,-108
+8,Brook Lopez,Points,11.5,100,11.5,-122
+9,P.J Tucker,Points,4.5,-104,4.5,-118
+10,Pat Connaughton,Points,8.5,-104,8.5,-118
+11,Bobby Portis,Points,7.5,-106,7.5,-116
+12,Cameron Payne,Points,6.5,100,6.5,-122
+13,Devin Booker,Rebounds,4.5,-144,4.5,118
+14,Chris Paul,Rebounds,4.5,102,4.5,-124
+15,Deandre Ayton,Rebounds,12.5,-110,12.5,-110
+16,Mikal Bridges,Rebounds,4.5,108,4.5,-132
+17,Jae Crowder,Rebounds,6.5,-118,6.5,-104
+18,Giannis Antetokounmpo,Rebounds,13.5,110,13.5,-134
+19,Khris Middleton,Rebounds,7.5,116,7.5,-142
+20,Jrue Holiday,Rebounds,5.5,114,5.5,-140
+21,Brook Lopez,Rebounds,4.5,-134,4.5,110
+22,P.J Tucker,Rebounds,4.5,-106,4.5,-114
+23,Pat Connaughton,Rebounds,4.5,-142,4.5,116
+24,Cameron Johnson,Rebounds,3.5,132,3.5,-162
+25,Devin Booker,Assists,4.5,120,4.5,-148
+26,Chris Paul,Assists,9.5,114,9.5,-140
+27,Deandre Ayton,Assists,1.5,130,1.5,-160
+28,Mikal Bridges,Assists,1.5,108,1.5,-132
+29,Jae Crowder,Assists,1.5,-128,1.5,104
+30,Giannis Antetokounmpo,Assists,5.5,-132,5.5,108
+31,Khris Middleton,Assists,5.5,112,5.5,-138
+32,Jrue Holiday,Assists,8.5,114,8.5,-140
+33,P.J Tucker,Assists,1.5,180,1.5,-225
+34,Devin Booker,Made Threes,2.5,100,2.5,-128
+35,Chris Paul,Made Threes,1.5,-210,1.5,162
+36,Mikal Bridges,Made Threes,1.5,-160,1.5,124
+37,Jae Crowder,Made Threes,2.5,-138,2.5,108
+38,Giannis Antetokounmpo,Made Threes,0.5,-115,0.5,-111
+39,Khris Middleton,Made Threes,2.5,-154,2.5,120
+40,Jrue Holiday,Made Threes,2.5,114,2.5,-146
+41,Brook Lopez,Made Threes,0.5,-250,0.5,190
+42,P.J Tucker,Made Threes,0.5,-260,0.5,196
+43,Pat Connaughton,Made Threes,1.5,-148,1.5,116
+44,Devin Booker,Pts + Ast,35.5,-113,35.5,-113
+45,Chris Paul,Pts + Ast,30.5,-104,30.5,-122
+46,Deandre Ayton,Pts + Ast,17.5,-125,17.5,-102
+47,Mikal Bridges,Pts + Ast,12.5,-122,12.5,-104
+48,Jae Crowder,Pts + Ast,12.5,-115,12.5,-111
+49,Giannis Antetokounmpo,Pts + Ast,38.5,-118,38.5,-108
+50,Khris Middleton,Pts + Ast,31.5,100,31.5,-128
+51,Jrue Holiday,Pts + Ast,27.5,-128,27.5,100
+52,Brook Lopez,Pts + Ast,11.5,-113,11.5,-113
+53,P.J Tucker,Pts + Ast,5.5,-122,5.5,-104
+54,Devin Booker,Pts + Reb,36.5,-106,36.5,-120
+55,Chris Paul,Pts + Reb,25.5,-111,25.5,-115
+56,Deandre Ayton,Pts + Reb,29.5,-104,29.5,-122
+57,Mikal Bridges,Pts + Reb,15.5,-120,15.5,-106
+58,Jae Crowder,Pts + Reb,17.5,-115,17.5,-111
+59,Giannis Antetokounmpo,Pts + Reb,46.5,-104,46.5,-122
+60,Khris Middleton,Pts + Reb,32.5,-125,32.5,-102
+61,Jrue Holiday,Pts + Reb,25.5,-104,25.5,-122
+62,Brook Lopez,Pts + Reb,16.5,-104,16.5,-122
+63,P.J Tucker,Pts + Reb,9.5,106,9.5,-136
+64,Pat Connaughton,Pts + Reb,13.5,-113,13.5,-113
+65,Devin Booker,Reb + Ast,9.5,-102,9.5,-125
+66,Chris Paul,Reb + Ast,13.5,-113,13.5,-113
+67,Deandre Ayton,Reb + Ast,13.5,-130,13.5,102
+68,Mikal Bridges,Reb + Ast,5.5,-132,5.5,104
+69,Jae Crowder,Reb + Ast,8.5,-108,8.5,-118
+70,Giannis Antetokounmpo,Reb + Ast,18.5,-132,18.5,104
+71,Khris Middleton,Reb + Ast,12.5,-108,12.5,-118
+72,Jrue Holiday,Reb + Ast,13.5,-106,13.5,-120
+73,Brook Lopez,Reb + Ast,5.5,110,5.5,-140
+74,P.J Tucker,Reb + Ast,5.5,-122,5.5,-104
+75,Devin Booker,Pts + Reb + Ast,40.5,-115,40.5,-111
+76,Chris Paul,Pts + Reb + Ast,34.5,-115,34.5,-111
+77,Deandre Ayton,Pts + Reb + Ast,30.5,-113,30.5,-113
+78,Mikal Bridges,Pts + Reb + Ast,17.5,-108,17.5,-118
+79,Jae Crowder,Pts + Reb + Ast,19.5,-111,19.5,-115
+80,G Antetokounmpo,Pts + Reb + Ast,52.5,-104,52.5,-122
+81,Khris Middleton,Pts + Reb + Ast,38.5,-111,38.5,-115
+82,Jrue Holiday,Pts + Reb + Ast,33.5,-111,33.5,-115
+83,Brook Lopez,Pts + Reb + Ast,16.5,-115,16.5,-111
+84,P.J Tucker,Pts + Reb + Ast,10.5,-102,10.5,-125

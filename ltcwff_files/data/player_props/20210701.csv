@@ -1,0 +1,82 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,Khris Middleton,Points,28.5,-104,28.5,-118
+1,Jrue Holiday,Points,23.5,-110,23.5,-110
+2,Brook Lopez,Points,13.5,-122,13.5,100
+3,P.J Tucker,Points,5.5,100,5.5,-122
+4,Clint Capela,Points,10.5,-120,10.5,-102
+5,John Collins,Points,15.5,-118,15.5,-102
+6,Kevin Huerter,Points,14.5,-116,14.5,-106
+7,Bogdan Bogdanovic,Points,18.5,-120,18.5,-102
+8,Pat Connaughton,Points,8.5,-110,8.5,-110
+9,Bobby Portis,Points,14.5,-108,14.5,-114
+10,Bryn Forbes,Points,8.5,-128,8.5,106
+11,Khris Middleton,Rebounds,8.5,114,8.5,-140
+12,Jrue Holiday,Rebounds,5.5,-142,5.5,116
+13,Brook Lopez,Rebounds,5.5,-134,5.5,110
+14,P.J Tucker,Rebounds,5.5,-138,5.5,112
+15,Clint Capela,Rebounds,11.5,-130,11.5,106
+16,Kevin Huerter,Rebounds,3.5,-154,3.5,126
+17,Bogdan Bogdanovic,Rebounds,3.5,-148,3.5,120
+18,John Collins,Rebounds,8.5,-110,8.5,-110
+19,Pat Connaughton,Rebounds,6.5,110,6.5,-134
+20,Bobby Portis,Rebounds,9.5,108,9.5,-132
+21,Khris Middleton,Assists,6.5,-138,6.5,112
+22,Jrue Holiday,Assists,9.5,-120,9.5,-102
+23,Brook Lopez,Assists,0.5,-110,0.5,-110
+24,John Collins,Assists,1.5,172,1.5,-215
+25,Kevin Huerter,Assists,4.5,-128,4.5,104
+26,Bogdan Bogdanovic,Assists,4.5,128,4.5,-158
+27,Clint Capela,Assists,0.5,-194,0.5,156
+28,P.J Tucker,Assists,1.5,130,1.5,-160
+29,Pat Connaughton,Assists,1.5,110,1.5,-134
+30,Bobby Portis,Assists,1.5,140,1.5,-172
+31,Jrue Holiday,Made Threes,2.5,128,2.5,-164
+32,Khris Middleton,Made Threes,2.5,-150,2.5,118
+33,Brook Lopez,Made Threes,1.5,124,1.5,-160
+34,John Collins,Made Threes,1.5,142,1.5,-184
+35,Kevin Huerter,Made Threes,2.5,-120,2.5,-106
+36,Bogdan Bogdanovic,Made Threes,3.5,-108,3.5,-118
+37,P.J Tucker,Made Threes,0.5,-215,0.5,164
+38,Pat Connaughton,Made Threes,1.5,-104,1.5,-122
+39,Bryn Forbes,Made Threes,1.5,-184,1.5,142
+40,Bobby Portis,Made Threes,1.5,176,1.5,-230
+41,Khris Middleton,Reb + Ast,14.5,-136,14.5,106
+42,Jrue Holiday,Reb + Ast,15.5,-122,15.5,-104
+43,Brook Lopez,Reb + Ast,6.5,-115,6.5,-111
+44,P.J Tucker,Reb + Ast,7.5,-104,7.5,-122
+45,John Collins,Reb + Ast,9.5,-125,9.5,-102
+46,Clint Capela,Reb + Ast,12.5,-130,12.5,102
+47,Khris Middleton,Pts + Ast,35.5,-106,35.5,-120
+48,Jrue Holiday,Pts + Ast,33.5,-111,33.5,-115
+49,Brook Lopez,Pts + Ast,14.5,-113,14.5,-113
+50,P.J Tucker,Pts + Ast,6.5,-128,6.5,100
+51,Clint Capela,Pts + Ast,11.5,-125,11.5,-102
+52,John Collins,Pts + Ast,17.5,-102,17.5,-125
+53,Khris Middleton,Pts + Reb,36.5,-113,36.5,-113
+54,Jrue Holiday,Pts + Reb,29.5,-115,29.5,-111
+55,Brook Lopez,Pts + Reb,19.5,-128,19.5,100
+56,P.J Tucker,Pts + Reb,11.5,-113,11.5,-113
+57,Clint Capela,Pts + Reb,22.5,-120,22.5,-106
+58,John Collins,Pts + Reb,24.5,-118,24.5,-108
+59,Khris Middleton,Pts + Reb + Ast,43.5,-115,43.5,-111
+60,Jrue Holiday,Pts + Reb + Ast,39.5,-113,39.5,-113
+61,Brook Lopez,Pts + Reb + Ast,20.5,-120,20.5,-108
+62,P.J Tucker,Pts + Reb + Ast,12.5,-130,12.5,102
+63,Clint Capela,Pts + Reb + Ast,23.5,-122,23.5,-104
+64,John Collins,Pts + Reb + Ast,25.5,-125,25.5,-102
+65,Kevin Huerter,Pts + Ast,19.5,-113,19.5,-113
+66,Bogdan Bogdanovic,Pts + Ast,23.5,-104,23.5,-122
+67,Pat Connaughton,Pts + Ast,10.5,102,10.5,-130
+68,Bobby Portis,Pts + Ast,15.5,-122,15.5,-104
+69,Kevin Huerter,Pts + Reb,18.5,-125,18.5,-102
+70,Bogdan Bogdanovic,Pts + Reb,23.5,-102,23.5,-125
+71,Pat Connaughton,Pts + Reb,14.5,-130,14.5,102
+72,Bobby Portis,Pts + Reb,23.5,-118,23.5,-108
+73,Kevin Huerter,Pts + Reb + Ast,23.5,-122,23.5,-104
+74,Bogdan Bogdanovic,Pts + Reb + Ast,27.5,-111,27.5,-115
+75,Pat Connaughton,Pts + Reb + Ast,16.5,-113,16.5,-113
+76,Bobby Portis,Pts + Reb + Ast,25.5,-104,25.5,-122
+77,Kevin Huerter,Reb + Ast,8.5,-136,8.5,106
+78,Bogdan Bogdanovic,Reb + Ast,8.5,104,8.5,-132
+79,Pat Connaughton,Reb + Ast,7.5,-128,7.5,100
+80,Bobby Portis,Reb + Ast,10.5,-108,10.5,-118

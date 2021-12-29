@@ -1,0 +1,86 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,Trae Young,Points,28.5,-112,28.5,-108
+1,John Collins,Points,15.5,-116,15.5,-106
+2,Kevin Huerter,Points,13.5,-102,13.5,-120
+3,Giannis Antetokounmpo,Points,32.5,-120,32.5,-102
+4,Khris Middleton,Points,24.5,-116,24.5,-106
+5,Jrue Holiday,Points,18.5,-106,18.5,-116
+6,Brook Lopez,Points,13.5,-106,13.5,-116
+7,P.J Tucker,Points,4.5,-114,4.5,-108
+8,Clint Capela,Points,11.5,100,11.5,-122
+9,Pat Connaughton,Points,6.5,-110,6.5,-110
+10,Bogdan Bogdanovic,Points,13.5,-120,13.5,-102
+11,Danilo Gallinari,Points,13.5,-114,13.5,-108
+12,Bryn Forbes,Points,5.5,-130,5.5,108
+13,John Collins,Rebounds,8.5,100,8.5,-122
+14,Jrue Holiday,Rebounds,5.5,114,5.5,-140
+15,Kevin Huerter,Rebounds,4.5,118,4.5,-144
+16,Trae Young,Rebounds,3.5,106,3.5,-130
+17,Giannis Antetokounmpo,Rebounds,13.5,106,13.5,-130
+18,Khris Middleton,Rebounds,7.5,-110,7.5,-110
+19,Brook Lopez,Rebounds,6.5,-110,6.5,-110
+20,P.J Tucker,Rebounds,4.5,110,4.5,-134
+21,Clint Capela,Rebounds,12.5,-105,12.5,-115
+22,Pat Connaughton,Rebounds,4.5,124,4.5,-152
+23,Bogdan Bogdanovic,Rebounds,3.5,-150,3.5,122
+24,Jrue Holiday,Assists,7.5,-105,7.5,-115
+25,Khris Middleton,Assists,5.5,100,5.5,-122
+26,John Collins,Assists,1.5,180,1.5,-225
+27,Trae Young,Assists,9.5,-112,9.5,-110
+28,Kevin Huerter,Assists,2.5,-122,2.5,100
+29,Giannis Antetokounmpo,Assists,5.5,120,5.5,-148
+30,Brook Lopez,Assists,0.5,104,0.5,-128
+31,P.J Tucker,Assists,0.5,-168,0.5,136
+32,Clint Capela,Assists,0.5,-118,0.5,-104
+33,Bogdan Bogdanovic,Assists,2.5,134,2.5,-164
+34,Jrue Holiday,Made Threes,1.5,-148,1.5,116
+35,Giannis Antetokounmpo,Made Threes,1.5,152,1.5,-196
+36,Kevin Huerter,Made Threes,2.5,126,2.5,-162
+37,Trae Young,Made Threes,2.5,-120,2.5,-106
+38,Khris Middleton,Made Threes,2.5,-148,2.5,116
+39,John Collins,Made Threes,1.5,114,1.5,-146
+40,Brook Lopez,Made Threes,1.5,126,1.5,-162
+41,P.J Tucker,Made Threes,0.5,-225,0.5,172
+42,Pat Connaughton,Made Threes,1.5,112,1.5,-142
+43,Bogdan Bogdanovic,Made Threes,2.5,-138,2.5,108
+44,Jrue Holiday,Reb + Ast,12.5,-128,12.5,100
+45,Kevin Huerter,Reb + Ast,6.5,-138,6.5,108
+46,John Collins,Reb + Ast,9.5,-113,9.5,-113
+47,Giannis Antetokounmpo,Reb + Ast,18.5,-108,18.5,-118
+48,Trae Young,Reb + Ast,12.5,-138,12.5,108
+49,Khris Middleton,Reb + Ast,13.5,104,13.5,-132
+50,Trae Young,Pts + Ast,38.5,-104,38.5,-122
+51,John Collins,Pts + Ast,16.5,-125,16.5,-102
+52,Kevin Huerter,Pts + Ast,15.5,-130,15.5,102
+53,Giannis Antetokounmpo,Pts + Ast,38.5,-106,38.5,-120
+54,Khris Middleton,Pts + Ast,30.5,-106,30.5,-120
+55,Jrue Holiday,Pts + Ast,25.5,-125,25.5,-102
+56,Trae Young,Pts + Reb,32.5,-102,32.5,-125
+57,John Collins,Pts + Reb,24.5,-104,24.5,-122
+58,Kevin Huerter,Pts + Reb,17.5,-113,17.5,-113
+59,Giannis Antetokounmpo,Pts + Reb,46.5,-108,46.5,-120
+60,Khris Middleton,Pts + Reb,32.5,-111,32.5,-115
+61,Jrue Holiday,Pts + Reb,23.5,-118,23.5,-108
+62,Trae Young,Pts + Reb + Ast,41.5,-115,41.5,-111
+63,John Collins,Pts + Reb + Ast,25.5,-111,25.5,-115
+64,Kevin Huerter,Pts + Reb + Ast,20.5,-111,20.5,-115
+65,G Antetokounmpo,Pts + Reb + Ast,51.5,-113,51.5,-113
+66,Khris Middleton,Pts + Reb + Ast,37.5,-122,37.5,-104
+67,Jrue Holiday,Pts + Reb + Ast,31.5,-111,31.5,-115
+68,Brook Lopez,Pts + Ast,13.5,-130,13.5,102
+69,P.J Tucker,Pts + Ast,5.5,-113,5.5,-113
+70,Clint Capela,Pts + Ast,11.5,-130,11.5,102
+71,Bogdan Bogdanovic,Pts + Ast,16.5,-102,16.5,-125
+72,Brook Lopez,Pts + Reb,20.5,-104,20.5,-122
+73,P.J Tucker,Pts + Reb,9.5,108,9.5,-138
+74,Clint Capela,Pts + Reb,23.5,-125,23.5,-102
+75,Pat Connaughton,Pts + Reb,10.5,-125,10.5,-102
+76,Bogdan Bogdanovic,Pts + Reb,18.5,100,18.5,-128
+77,Brook Lopez,Pts + Reb + Ast,20.5,-122,20.5,-104
+78,P.J Tucker,Pts + Reb + Ast,9.5,-118,9.5,-108
+79,Clint Capela,Pts + Reb + Ast,24.5,-115,24.5,-111
+80,Bogdan Bogdanovic,Pts + Reb + Ast,20.5,-108,20.5,-118
+81,Brook Lopez,Reb + Ast,7.5,106,7.5,-136
+82,P.J Tucker,Reb + Ast,5.5,110,5.5,-140
+83,Clint Capela,Reb + Ast,13.5,104,13.5,-132
+84,Bogdan Bogdanovic,Reb + Ast,6.5,102,6.5,-130

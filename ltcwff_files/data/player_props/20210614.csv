@@ -1,0 +1,170 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,Joel Embiid,Points,29.5,-118,29.5,-102
+1,Trae Young,Points,27.5,-108,27.5,-112
+2,Ben Simmons,Points,13.5,-120,13.5,-102
+3,Tobias Harris,Points,22.5,-104,22.5,-118
+4,Clint Capela,Points,11.5,-112,11.5,-108
+5,Bogdan Bogdanovic,Points,17.5,-122,17.5,100
+6,John Collins,Points,15.5,-116,15.5,-106
+7,Seth Curry,Points,13.5,-118,13.5,-102
+8,Furkan Korkmaz,Points,11.5,-102,11.5,-120
+9,Danilo Gallinari,Points,13.5,102,13.5,-126
+10,Kevin Huerter,Points,10.5,100,10.5,-122
+11,Shake Milton,Points,7.5,-110,7.5,-110
+12,Joel Embiid,Rebounds,10.5,-110,10.5,-110
+13,Trae Young,Rebounds,2.5,-164,2.5,134
+14,Ben Simmons,Rebounds,6.5,-122,6.5,100
+15,Tobias Harris,Rebounds,7.5,110,7.5,-134
+16,Clint Capela,Rebounds,12.5,104,12.5,-128
+17,Bogdan Bogdanovic,Rebounds,4.5,-134,4.5,110
+18,John Collins,Rebounds,7.5,110,7.5,-134
+19,Seth Curry,Rebounds,2.5,-110,2.5,-110
+20,Danilo Gallinari,Rebounds,4.5,-108,4.5,-112
+21,Kevin Huerter,Rebounds,3.5,130,3.5,-160
+22,Joel Embiid,Assists,3.5,128,3.5,-158
+23,Trae Young,Assists,9.5,-114,9.5,-106
+24,Ben Simmons,Assists,7.5,102,7.5,-124
+25,Tobias Harris,Assists,3.5,-122,3.5,100
+26,Clint Capela,Assists,0.5,104,0.5,-128
+27,Bogdan Bogdanovic,Assists,3.5,114,3.5,-140
+28,John Collins,Assists,0.5,-188,0.5,152
+29,Seth Curry,Assists,2.5,102,2.5,-124
+30,Danilo Gallinari,Assists,1.5,138,1.5,-170
+31,Kevin Huerter,Assists,2.5,118,2.5,-144
+32,Joel Embiid,Made Threes,1.5,126,1.5,-162
+33,Trae Young,Made Threes,2.5,-118,2.5,-108
+34,Tobias Harris,Made Threes,1.5,130,1.5,-166
+35,Bogdan Bogdanovic,Made Threes,3.5,120,3.5,-154
+36,John Collins,Made Threes,1.5,126,1.5,-162
+37,Seth Curry,Made Threes,2.5,-136,2.5,106
+38,Furkan Korkmaz,Made Threes,1.5,-215,1.5,164
+39,Danilo Gallinari,Made Threes,1.5,-142,1.5,112
+40,Shake Milton,Made Threes,0.5,-188,0.5,146
+41,Kevin Huerter,Made Threes,1.5,-156,1.5,122
+42,Joel Embiid,Reb + Ast,13.5,-128,13.5,100
+43,Trae Young,Reb + Ast,12.5,-122,12.5,-104
+44,Ben Simmons,Reb + Ast,14.5,-104,14.5,-122
+45,Tobias Harris,Reb + Ast,11.5,106,11.5,-136
+46,Clint Capela,Reb + Ast,12.5,-128,12.5,100
+47,Bogdan Bogdanovic,Reb + Ast,8.5,-104,8.5,-122
+48,Joel Embiid,Pts + Ast,33.5,-104,33.5,-122
+49,Trae Young,Pts + Ast,37.5,-104,37.5,-122
+50,Ben Simmons,Pts + Ast,21.5,-108,21.5,-118
+51,Tobias Harris,Pts + Ast,26.5,-102,26.5,-125
+52,Clint Capela,Pts + Ast,12.5,-108,12.5,-118
+53,Bogdan Bogdanovic,Pts + Ast,21.5,-113,21.5,-113
+54,Joel Embiid,Pts + Reb,40.5,-120,40.5,-106
+55,Trae Young,Pts + Reb,30.5,-113,30.5,-113
+56,Ben Simmons,Pts + Reb,20.5,-125,20.5,-102
+57,Tobias Harris,Pts + Reb,29.5,-113,29.5,-113
+58,Clint Capela,Pts + Reb,24.5,-102,24.5,-125
+59,Bogdan Bogdanovic,Pts + Reb,23.5,-102,23.5,-125
+60,Joel Embiid,Pts + Reb + Ast,44.5,-104,44.5,-122
+61,Trae Young,Pts + Reb + Ast,40.5,-111,40.5,-115
+62,Ben Simmons,Pts + Reb + Ast,28.5,-113,28.5,-113
+63,Tobias Harris,Pts + Reb + Ast,33.5,-122,33.5,-104
+64,Clint Capela,Pts + Reb + Ast,24.5,-120,24.5,-106
+65,Bogdan Bogdanovic,Pts + Reb + Ast,26.5,-118,26.5,-108
+66,John Collins,Pts + Ast,16.5,-115,16.5,-111
+67,Seth Curry,Pts + Ast,16.5,-111,16.5,-115
+68,Danilo Gallinari,Pts + Ast,14.5,-108,14.5,-115
+69,Kevin Huerter,Pts + Ast,12.5,-122,12.5,-104
+70,John Collins,Pts + Reb,23.5,-102,23.5,-125
+71,Seth Curry,Pts + Reb,16.5,-115,16.5,-111
+72,Danilo Gallinari,Pts + Reb,17.5,-122,17.5,-104
+73,Kevin Huerter,Pts + Reb,13.5,-118,13.5,-108
+74,John Collins,Pts + Reb + Ast,24.5,-102,24.5,-125
+75,Seth Curry,Pts + Reb + Ast,19.5,-104,19.5,-120
+76,Danilo Gallinari,Pts + Reb + Ast,19.5,-104,19.5,-122
+77,Kevin Huerter,Pts + Reb + Ast,16.5,-102,16.5,-125
+78,John Collins,Reb + Ast,8.5,108,8.5,-138
+79,Seth Curry,Reb + Ast,5.5,114,5.5,-146
+80,Danilo Gallinari,Reb + Ast,5.5,-138,5.5,108
+81,Kevin Huerter,Reb + Ast,5.5,-113,5.5,-113
+82,Donovan Mitchell,Points,30.5,-108,30.5,-112
+83,Bojan Bogdanovic,Points,17.5,-102,17.5,-118
+84,Rudy Gobert,Points,12.5,-122,12.5,100
+85,Royce O'Neale,Points,7.5,-118,7.5,-104
+86,Kawhi Leonard,Points,29.5,-106,29.5,-116
+87,Nicolas Batum,Points,8.5,-116,8.5,-106
+88,Paul George,Points,25.5,-104,25.5,-118
+89,Marcus Morris,Points,11.5,-104,11.5,-118
+90,Reggie Jackson,Points,14.5,-104,14.5,-118
+91,Joe Ingles,Points,12.5,-106,12.5,-116
+92,Jordan Clarkson,Points,18.5,-116,18.5,-106
+93,Rudy Gobert,Rebounds,13.5,-110,13.5,-110
+94,Bojan Bogdanovic,Rebounds,4.5,122,4.5,-150
+95,Royce O'Neale,Rebounds,6.5,102,6.5,-124
+96,Donovan Mitchell,Rebounds,4.5,116,4.5,-142
+97,Kawhi Leonard,Rebounds,7.5,-132,7.5,108
+98,Reggie Jackson,Rebounds,2.5,-162,2.5,132
+99,Nicolas Batum,Rebounds,5.5,-130,5.5,106
+100,Paul George,Rebounds,8.5,102,8.5,-124
+101,Marcus Morris,Rebounds,4.5,-106,4.5,-114
+102,Joe Ingles,Rebounds,3.5,-104,3.5,-118
+103,Jordan Clarkson,Rebounds,3.5,126,3.5,-154
+104,Royce O'Neale,Assists,1.5,-188,1.5,152
+105,Bojan Bogdanovic,Assists,1.5,104,1.5,-128
+106,Rudy Gobert,Assists,0.5,-215,0.5,172
+107,Donovan Mitchell,Assists,4.5,-150,4.5,122
+108,Kawhi Leonard,Assists,5.5,116,5.5,-142
+109,Paul George,Assists,5.5,-108,5.5,-112
+110,Marcus Morris,Assists,1.5,168,1.5,-210
+111,Nicolas Batum,Assists,2.5,142,2.5,-176
+112,Reggie Jackson,Assists,2.5,-154,2.5,126
+113,Joe Ingles,Assists,4.5,-102,4.5,-120
+114,Jordan Clarkson,Assists,2.5,100,2.5,-122
+115,Royce O'Neale,Made Threes,1.5,100,1.5,-128
+116,Bojan Bogdanovic,Made Threes,2.5,162,2.5,-210
+117,Donovan Mitchell,Made Threes,3.5,-113,3.5,-113
+118,Kawhi Leonard,Made Threes,1.5,-178,1.5,138
+119,Paul George,Made Threes,2.5,-118,2.5,-108
+120,Reggie Jackson,Made Threes,2.5,-128,2.5,100
+121,Marcus Morris,Made Threes,1.5,-158,1.5,124
+122,Nicolas Batum,Made Threes,1.5,-128,1.5,100
+123,Joe Ingles,Made Threes,2.5,124,2.5,-158
+124,Jordan Clarkson,Made Threes,3.5,114,3.5,-146
+125,Bojan Bogdanovic,Reb + Ast,5.5,-122,5.5,-104
+126,Rudy Gobert,Reb + Ast,14.5,-115,14.5,-111
+127,Royce O'Neale,Reb + Ast,8.5,-111,8.5,-115
+128,Donovan Mitchell,Reb + Ast,9.5,-106,9.5,-120
+129,Kawhi Leonard,Reb + Ast,13.5,-102,13.5,-125
+130,Nicolas Batum,Reb + Ast,8.5,108,8.5,-138
+131,Donovan Mitchell,Pts + Ast,35.5,-115,35.5,-111
+132,Bojan Bogdanovic,Pts + Ast,18.5,-122,18.5,-104
+133,Rudy Gobert,Pts + Ast,13.5,-130,13.5,102
+134,Royce O'Neale,Pts + Ast,9.5,-130,9.5,102
+135,Kawhi Leonard,Pts + Ast,34.5,-115,34.5,-111
+136,Nicolas Batum,Pts + Ast,11.5,104,11.5,-132
+137,Donovan Mitchell,Pts + Reb,34.5,-125,34.5,-102
+138,Bojan Bogdanovic,Pts + Reb,21.5,-115,21.5,-111
+139,Rudy Gobert,Pts + Reb,26.5,-113,26.5,-113
+140,Royce O'Neale,Pts + Reb,14.5,-104,14.5,-122
+141,Kawhi Leonard,Pts + Reb,37.5,-113,37.5,-113
+142,Nicolas Batum,Pts + Reb,14.5,-122,14.5,-104
+143,Donovan Mitchell,Pts + Reb + Ast,40.5,-104,40.5,-122
+144,Bojan Bogdanovic,Pts + Reb + Ast,23.5,-104,23.5,-122
+145,Rudy Gobert,Pts + Reb + Ast,27.5,-118,27.5,-108
+146,Royce O'Neale,Pts + Reb + Ast,16.5,-115,16.5,-111
+147,Kawhi Leonard,Pts + Reb + Ast,42.5,-125,42.5,-102
+148,Nicolas Batum,Pts + Reb + Ast,17.5,100,17.5,-128
+149,Paul George,Pts + Ast,30.5,-122,30.5,-104
+150,Marcus Morris,Pts + Ast,12.5,-113,12.5,-113
+151,Reggie Jackson,Pts + Ast,17.5,-106,17.5,-120
+152,Joe Ingles,Pts + Ast,16.5,-130,16.5,102
+153,Jordan Clarkson,Pts + Ast,21.5,-108,21.5,-118
+154,Paul George,Pts + Reb,33.5,-118,33.5,-108
+155,Marcus Morris,Pts + Reb,16.5,100,16.5,-128
+156,Reggie Jackson,Pts + Reb,17.5,-113,17.5,-113
+157,Joe Ingles,Pts + Reb,16.5,100,16.5,-128
+158,Jordan Clarkson,Pts + Reb,22.5,-102,22.5,-125
+159,Paul George,Pts + Reb + Ast,39.5,-111,39.5,-115
+160,Marcus Morris,Pts + Reb + Ast,17.5,-108,17.5,-118
+161,Reggie Jackson,Pts + Reb + Ast,20.5,-113,20.5,-113
+162,Joe Ingles,Pts + Reb + Ast,20.5,-115,20.5,-111
+163,Jordan Clarkson,Pts + Reb + Ast,24.5,-118,24.5,-108
+164,Paul George,Reb + Ast,13.5,-130,13.5,102
+165,Marcus Morris,Reb + Ast,5.5,-125,5.5,-102
+166,Reggie Jackson,Reb + Ast,6.5,116,6.5,-148
+167,Joe Ingles,Reb + Ast,7.5,-142,7.5,112
+168,Jordan Clarkson,Reb + Ast,5.5,-125,5.5,-102

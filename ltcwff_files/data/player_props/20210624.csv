@@ -1,0 +1,96 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,Devin Booker,Points,28.5,-110,28.5,-110
+1,Paul George,Points,30.5,-120,30.5,-102
+2,Deandre Ayton,Points,15.5,-122,15.5,100
+3,Reggie Jackson,Points,18.5,-110,18.5,-110
+4,Mikal Bridges,Points,11.5,-118,11.5,-104
+5,Marcus Morris,Points,11.5,-128,11.5,106
+6,Jae Crowder,Points,9.5,-120,9.5,-102
+7,Ivica Zubac,Points,8.5,-122,8.5,100
+8,Patrick Beverley,Points,7.5,106,7.5,-128
+9,Chris Paul,Points,16.5,-124,16.5,102
+10,Luke Kennard,Points,6.5,-104,6.5,-118
+11,Nicolas Batum,Points,6.5,-128,6.5,106
+12,Rajon Rondo,Points,6.5,102,6.5,-124
+13,Terance Mann,Points,7.5,-122,7.5,100
+14,Devin Booker,Rebounds,5.5,-118,5.5,-104
+15,Paul George,Rebounds,8.5,-102,8.5,-120
+16,Deandre Ayton,Rebounds,10.5,-120,10.5,-102
+17,Reggie Jackson,Rebounds,3.5,-112,3.5,-108
+18,Mikal Bridges,Rebounds,4.5,116,4.5,-144
+19,Marcus Morris,Rebounds,4.5,116,4.5,-144
+20,Jae Crowder,Rebounds,4.5,-120,4.5,-102
+21,Ivica Zubac,Rebounds,7.5,-114,7.5,-106
+22,Patrick Beverley,Rebounds,3.5,134,3.5,-164
+23,Chris Paul,Rebounds,4.5,106,4.5,-130
+24,Nicolas Batum,Rebounds,4.5,-110,4.5,-112
+25,Rajon Rondo,Rebounds,2.5,-120,2.5,-102
+26,Devin Booker,Assists,4.5,-114,4.5,-106
+27,Paul George,Assists,5.5,102,5.5,-124
+28,Deandre Ayton,Assists,1.5,134,1.5,-164
+29,Reggie Jackson,Assists,3.5,-152,3.5,124
+30,Mikal Bridges,Assists,1.5,-110,1.5,-110
+31,Marcus Morris,Assists,1.5,184,1.5,-230
+32,Jae Crowder,Assists,1.5,-164,1.5,134
+33,Ivica Zubac,Assists,0.5,104,0.5,-128
+34,Patrick Beverley,Assists,1.5,-138,1.5,112
+35,Chris Paul,Assists,8.5,-128,8.5,104
+36,Nicolas Batum,Assists,1.5,106,1.5,-130
+37,Rajon Rondo,Assists,4.5,-112,4.5,-108
+38,Devin Booker,Made Threes,2.5,140,2.5,-180
+39,Paul George,Made Threes,2.5,-184,2.5,142
+40,Reggie Jackson,Made Threes,2.5,-178,2.5,138
+41,Mikal Bridges,Made Threes,1.5,-148,1.5,116
+42,Marcus Morris,Made Threes,1.5,-128,1.5,100
+43,Jae Crowder,Made Threes,2.5,116,2.5,-148
+44,Patrick Beverley,Made Threes,1.5,164,1.5,-215
+45,Chris Paul,Made Threes,1.5,140,1.5,-180
+46,Nicolas Batum,Made Threes,1.5,130,1.5,-166
+47,Devin Booker,Reb + Ast,10.5,-111,10.5,-115
+48,Paul George,Reb + Ast,13.5,-132,13.5,104
+49,Deandre Ayton,Reb + Ast,12.5,100,12.5,-128
+50,Reggie Jackson,Reb + Ast,7.5,-120,7.5,-106
+51,Mikal Bridges,Reb + Ast,5.5,-130,5.5,102
+52,Marcus Morris,Reb + Ast,5.5,100,5.5,-128
+53,Devin Booker,Pts + Ast,33.5,-106,33.5,-120
+54,Paul George,Pts + Ast,36.5,-113,36.5,-113
+55,Deandre Ayton,Pts + Ast,17.5,-108,17.5,-118
+56,Reggie Jackson,Pts + Ast,22.5,-115,22.5,-108
+57,Mikal Bridges,Pts + Ast,13.5,-113,13.5,-113
+58,Marcus Morris,Pts + Ast,13.5,100,13.5,-128
+59,Devin Booker,Pts + Reb,34.5,-111,34.5,-115
+60,Paul George,Pts + Reb,39.5,-111,39.5,-115
+61,Deandre Ayton,Pts + Reb,27.5,-102,27.5,-125
+62,Reggie Jackson,Pts + Reb,22.5,-108,22.5,-118
+63,Mikal Bridges,Pts + Reb,16.5,-104,16.5,-122
+64,Marcus Morris,Pts + Reb,16.5,-106,16.5,-120
+65,Devin Booker,Pts + Reb + Ast,39.5,-106,39.5,-120
+66,Paul George,Pts + Reb + Ast,45.5,-104,45.5,-122
+67,Deandre Ayton,Pts + Reb + Ast,28.5,-113,28.5,-113
+68,Reggie Jackson,Pts + Reb + Ast,26.5,-113,26.5,-113
+69,Mikal Bridges,Pts + Reb + Ast,17.5,-125,17.5,-102
+70,Marcus Morris,Pts + Reb + Ast,17.5,-113,17.5,-115
+71,Jae Crowder,Pts + Ast,11.5,-125,11.5,-102
+72,Ivica Zubac,Pts + Ast,9.5,-111,9.5,-115
+73,Patrick Beverley,Pts + Ast,8.5,-138,8.5,108
+74,Chris Paul,Pts + Ast,25.5,-128,25.5,100
+75,Nicolas Batum,Pts + Ast,8.5,-113,8.5,-113
+76,Rajon Rondo,Pts + Ast,10.5,-132,10.5,104
+77,Jae Crowder,Pts + Reb,14.5,-120,14.5,-106
+78,Ivica Zubac,Pts + Reb,16.5,-122,16.5,-104
+79,Patrick Beverley,Pts + Reb,10.5,-111,10.5,-115
+80,Chris Paul,Pts + Reb,21.5,-115,21.5,-111
+81,Nicolas Batum,Pts + Reb,11.5,-120,11.5,-106
+82,Rajon Rondo,Pts + Reb,9.5,104,9.5,-132
+83,Jae Crowder,Pts + Reb + Ast,16.5,-122,16.5,-104
+84,Ivica Zubac,Pts + Reb + Ast,17.5,-111,17.5,-115
+85,Patrick Beverley,Pts + Reb + Ast,12.5,-104,12.5,-122
+86,Chris Paul,Pts + Reb + Ast,30.5,-115,30.5,-111
+87,Nicolas Batum,Pts + Reb + Ast,13.5,-104,13.5,-122
+88,Rajon Rondo,Pts + Reb + Ast,13.5,-125,13.5,-102
+89,Jae Crowder,Reb + Ast,6.5,-125,6.5,-102
+90,Ivica Zubac,Reb + Ast,8.5,102,8.5,-130
+91,Patrick Beverley,Reb + Ast,4.5,-146,4.5,114
+92,Chris Paul,Reb + Ast,13.5,-104,13.5,-122
+93,Nicolas Batum,Reb + Ast,6.5,114,6.5,-146
+94,Rajon Rondo,Reb + Ast,7.5,-104,7.5,-122

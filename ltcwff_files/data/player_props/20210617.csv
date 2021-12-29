@@ -1,0 +1,83 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,Kevin Durant,Points,35.5,-120,35.5,-102
+1,Jeff Green,Points,12.5,-122,12.5,100
+2,Joe Harris,Points,12.5,-114,12.5,-108
+3,Blake Griffin,Points,10.5,-110,10.5,-110
+4,Khris Middleton,Points,24.5,-108,24.5,-112
+5,Giannis Antetokounmpo,Points,34.5,-108,34.5,-112
+6,Brook Lopez,Points,13.5,100,13.5,-122
+7,Jrue Holiday,Points,18.5,-108,18.5,-112
+8,James Harden,Points,17.5,-118,17.5,-104
+9,P.J Tucker,Points,4.5,106,4.5,-128
+10,Pat Connaughton,Points,6.5,-110,6.5,-110
+11,Bryn Forbes,Points,6.5,100,6.5,-122
+12,Bruce Brown,Points,6.5,-112,6.5,-108
+13,Jeff Green,Rebounds,4.5,-108,4.5,-112
+14,Kevin Durant,Rebounds,10.5,-110,10.5,-110
+15,Blake Griffin,Rebounds,5.5,106,5.5,-130
+16,Joe Harris,Rebounds,3.5,-110,3.5,-110
+17,Brook Lopez,Rebounds,6.5,-132,6.5,108
+18,Khris Middleton,Rebounds,6.5,-142,6.5,116
+19,Giannis Antetokounmpo,Rebounds,13.5,110,13.5,-134
+20,Jrue Holiday,Rebounds,4.5,-144,4.5,118
+21,James Harden,Rebounds,6.5,-115,6.5,-105
+22,P.J Tucker,Rebounds,4.5,-108,4.5,-112
+23,Bruce Brown,Rebounds,3.5,-144,3.5,118
+24,Pat Connaughton,Rebounds,4.5,118,4.5,-144
+25,Jeff Green,Assists,1.5,112,1.5,-138
+26,Joe Harris,Assists,1.5,130,1.5,-160
+27,Blake Griffin,Assists,1.5,-158,1.5,128
+28,Kevin Durant,Assists,6.5,-124,6.5,102
+29,Giannis Antetokounmpo,Assists,4.5,-130,4.5,106
+30,Khris Middleton,Assists,4.5,-120,4.5,-102
+31,Jrue Holiday,Assists,7.5,104,7.5,-128
+32,James Harden,Assists,8.5,110,8.5,-134
+33,Joe Harris,Made Threes,2.5,-150,2.5,118
+34,Jeff Green,Made Threes,2.5,150,2.5,-196
+35,Kevin Durant,Made Threes,3.5,126,3.5,-162
+36,Blake Griffin,Made Threes,1.5,-106,1.5,-120
+37,Jrue Holiday,Made Threes,1.5,-180,1.5,140
+38,Brook Lopez,Made Threes,1.5,124,1.5,-158
+39,Giannis Antetokounmpo,Made Threes,1.5,132,1.5,-170
+40,Khris Middleton,Made Threes,2.5,-162,2.5,126
+41,James Harden,Made Threes,2.5,-108,2.5,-118
+42,P.J Tucker,Made Threes,0.5,-170,0.5,132
+43,Joe Harris,Reb + Ast,4.5,-148,4.5,116
+44,Blake Griffin,Reb + Ast,7.5,100,7.5,-128
+45,Kevin Durant,Reb + Ast,17.5,-113,17.5,-113
+46,Jeff Green,Reb + Ast,6.5,112,6.5,-142
+47,Khris Middleton,Reb + Ast,11.5,-128,11.5,100
+48,Giannis Antetokounmpo,Reb + Ast,17.5,-128,17.5,100
+49,Kevin Durant,Pts + Ast,42.5,-122,42.5,-104
+50,Jeff Green,Pts + Ast,14.5,-111,14.5,-115
+51,Joe Harris,Pts + Ast,14.5,100,14.5,-128
+52,Blake Griffin,Pts + Ast,12.5,-115,12.5,-111
+53,Khris Middleton,Pts + Ast,29.5,-106,29.5,-120
+54,Giannis Antetokounmpo,Pts + Ast,39.5,-111,39.5,-115
+55,Kevin Durant,Pts + Reb,46.5,-120,46.5,-106
+56,Jeff Green,Pts + Reb,17.5,-115,17.5,-111
+57,Joe Harris,Pts + Reb,16.5,-113,16.5,-113
+58,Blake Griffin,Pts + Reb,16.5,100,16.5,-128
+59,Khris Middleton,Pts + Reb,31.5,-118,31.5,-108
+60,Giannis Antetokounmpo,Pts + Reb,47.5,-115,47.5,-111
+61,Kevin Durant,Pts + Reb + Ast,53.5,-115,53.5,-111
+62,Jeff Green,Pts + Reb + Ast,19.5,-104,19.5,-122
+63,Joe Harris,Pts + Reb + Ast,17.5,-125,17.5,-102
+64,Blake Griffin,Pts + Reb + Ast,18.5,-102,18.5,-125
+65,Khris Middleton,Pts + Reb + Ast,36.5,-104,36.5,-122
+66,G Antetokounmpo,Pts + Reb + Ast,52.5,-113,52.5,-113
+67,Brook Lopez,Pts + Ast,13.5,-120,13.5,-106
+68,Jrue Holiday,Pts + Ast,25.5,-122,25.5,-104
+69,James Harden,Pts + Ast,26.5,-104,26.5,-122
+70,Brook Lopez,Pts + Reb,20.5,-106,20.5,-120
+71,Jrue Holiday,Pts + Reb,23.5,-115,23.5,-111
+72,James Harden,Pts + Reb,24.5,-118,24.5,-108
+73,P.J Tucker,Pts + Reb,9.5,108,9.5,-138
+74,Bruce Brown,Pts + Reb,10.5,-122,10.5,-104
+75,Pat Connaughton,Pts + Reb,10.5,-128,10.5,100
+76,Brook Lopez,Pts + Reb + Ast,20.5,-125,20.5,-102
+77,Jrue Holiday,Pts + Reb + Ast,31.5,-104,31.5,-122
+78,James Harden,Pts + Reb + Ast,33.5,-104,33.5,-122
+79,Brook Lopez,Reb + Ast,7.5,-111,7.5,-115
+80,Jrue Holiday,Reb + Ast,12.5,-113,12.5,-113
+81,James Harden,Reb + Ast,15.5,104,15.5,-132

@@ -1,0 +1,577 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,John Wall,Points,21.5,-102,21.5,-120
+1,Victor Oladipo,Points,18.5,-106,18.5,-116
+2,Jae'Sean Tate,Points,10.5,-110,10.5,-110
+3,Fred VanVleet,Points,20.5,100,20.5,-122
+4,Pascal Siakam,Points,21.5,-118,21.5,-102
+5,Norman Powell,Points,19.5,100,19.5,-122
+6,Kyle Lowry,Points,17.5,-118,17.5,-104
+7,OG Anunoby,Points,12.5,-116,12.5,-106
+8,Pascal Siakam,Assists,4.5,108,4.5,-132
+9,John Wall,Assists,6.5,-122,6.5,100
+10,Victor Oladipo,Assists,4.5,106,4.5,-130
+11,Kyle Lowry,Assists,6.5,-104,6.5,-118
+12,Fred VanVleet,Assists,6.5,106,6.5,-130
+13,Fred VanVleet,Rebounds,4.5,-104,4.5,-118
+14,OG Anunoby,Rebounds,6.5,112,6.5,-138
+15,Victor Oladipo,Reb + Ast,9.5,-136,9.5,106
+16,Kyle Lowry,Reb + Ast,12.5,-108,12.5,-120
+17,Fred VanVleet,Reb + Ast,10.5,-128,10.5,100
+18,Victor Oladipo,Rebounds,5.5,-110,5.5,-110
+19,Pascal Siakam,Reb + Ast,12.5,-118,12.5,-108
+20,Norman Powell,Rebounds,3.5,-142,3.5,116
+21,Pascal Siakam,Rebounds,8.5,104,8.5,-128
+22,John Wall,Rebounds,3.5,-110,3.5,-110
+23,Kyle Lowry,Rebounds,5.5,-130,5.5,106
+24,John Wall,Reb + Ast,10.5,-106,10.5,-120
+25,Jae'Sean Tate,Rebounds,6.5,-140,6.5,114
+26,P.J Tucker,Rebounds,5.5,-128,5.5,104
+27,Norman Powell,Made Threes,2.5,-120,2.5,-104
+28,Fred VanVleet,Made Threes,3.5,126,3.5,-162
+29,Victor Oladipo,Made Threes,2.5,-111,2.5,-115
+30,Pascal Siakam,Made Threes,1.5,130,1.5,-166
+31,Kyle Lowry,Made Threes,2.5,-120,2.5,-106
+32,OG Anunoby,Made Threes,1.5,-138,1.5,108
+33,John Wall,Made Threes,2.5,100,2.5,-128
+34,P.J Tucker,Points,4.5,-124,4.5,102
+35,John Wall,Pts + Ast,27.5,-122,27.5,-104
+36,Victor Oladipo,Pts + Ast,22.5,-120,22.5,-106
+37,Fred VanVleet,Pts + Ast,26.5,-111,26.5,-115
+38,Pascal Siakam,Pts + Ast,26.5,112,26.5,-142
+39,Norman Powell,Pts + Ast,21.5,-102,21.5,-125
+40,Kyle Lowry,Pts + Ast,24.5,-111,24.5,-115
+41,John Wall,Pts + Reb,24.5,-120,24.5,-106
+42,Victor Oladipo,Pts + Reb,24.5,-106,24.5,-120
+43,Jae'Sean Tate,Pts + Reb,17.5,-118,17.5,-108
+44,Fred VanVleet,Pts + Reb,24.5,-120,24.5,-108
+45,Pascal Siakam,Pts + Reb,30.5,-108,30.5,-118
+46,Norman Powell,Pts + Reb,23.5,-104,23.5,-122
+47,John Wall,Pts + Reb + Ast,31.5,-118,31.5,-108
+48,Victor Oladipo,Pts + Reb + Ast,28.5,-115,28.5,-111
+49,Fred VanVleet,Pts + Reb + Ast,31.5,-106,31.5,-120
+50,Pascal Siakam,Pts + Reb + Ast,34.5,-115,34.5,-111
+51,Norman Powell,Pts + Reb + Ast,25.5,-106,25.5,-120
+52,Kyle Lowry,Pts + Reb + Ast,30.5,-113,30.5,-113
+53,Jae'Sean Tate,Pts + Ast,12.5,-113,12.5,-113
+54,Kyle Lowry,Pts + Reb,23.5,-120,23.5,-106
+55,OG Anunoby,Pts + Reb,18.5,-122,18.5,-104
+56,P.J Tucker,Pts + Reb,10.5,-122,10.5,-104
+57,OG Anunoby,Pts + Reb + Ast,20.5,-118,20.5,-108
+58,Jae'Sean Tate,Pts + Reb + Ast,19.5,-120,19.5,-106
+59,Jae'Sean Tate,Reb + Ast,9.5,108,9.5,-138
+60,Domantas Sabonis,Points,22.5,-106,22.5,-116
+61,Malcolm Brogdon,Points,21.5,-104,21.5,-116
+62,Doug McDermott,Points,13.5,-102,13.5,-118
+63,Myles Turner,Points,12.5,-106,12.5,-116
+64,Justin Holiday,Points,10.5,100,10.5,-122
+65,Jayson Tatum,Points,25.5,-116,25.5,-106
+66,Jaylen Brown,Points,23.5,-120,23.5,-102
+67,Kemba Walker,Points,18.5,-110,18.5,-110
+68,Malcolm Brogdon,Assists,5.5,-124,5.5,102
+69,Kemba Walker,Assists,4.5,100,4.5,-122
+70,Jaylen Brown,Assists,4.5,-150,4.5,122
+71,Domantas Sabonis,Assists,5.5,106,5.5,-130
+72,Jayson Tatum,Assists,4.5,-152,4.5,124
+73,Jaylen Brown,Reb + Ast,11.5,104,11.5,-132
+74,Domantas Sabonis,Rebounds,11.5,100,11.5,-122
+75,Malcolm Brogdon,Reb + Ast,10.5,-120,10.5,-106
+76,Kemba Walker,Rebounds,3.5,-134,3.5,110
+77,Jaylen Brown,Rebounds,5.5,-138,5.5,112
+78,Jayson Tatum,Reb + Ast,12.5,102,12.5,-130
+79,Myles Turner,Rebounds,6.5,-118,6.5,-104
+80,Domantas Sabonis,Reb + Ast,16.5,-120,16.5,-104
+81,Malcolm Brogdon,Rebounds,4.5,-132,4.5,108
+82,Kemba Walker,Reb + Ast,8.5,-104,8.5,-122
+83,Justin Holiday,Rebounds,3.5,-140,3.5,114
+84,Jayson Tatum,Rebounds,6.5,-138,6.5,112
+85,Tristan Thompson,Rebounds,8.5,-118,8.5,-104
+86,Doug McDermott,Rebounds,3.5,-154,3.5,126
+87,Daniel Theis,Rebounds,5.5,104,5.5,-128
+88,Domantas Sabonis,Made Threes,0.5,-245,0.5,186
+89,Jaylen Brown,Made Threes,2.5,132,2.5,-170
+90,Jayson Tatum,Made Threes,2.5,-120,2.5,-108
+91,Myles Turner,Made Threes,1.5,138,1.5,-178
+92,Kemba Walker,Made Threes,2.5,-130,2.5,102
+93,Doug McDermott,Made Threes,1.5,-125,1.5,-102
+94,Malcolm Brogdon,Made Threes,2.5,140,2.5,-180
+95,Justin Holiday,Made Threes,2.5,138,2.5,-178
+96,Tristan Thompson,Points,8.5,-110,8.5,-110
+97,Daniel Theis,Points,8.5,106,8.5,-128
+98,Domantas Sabonis,Pts + Ast,27.5,-115,27.5,-111
+99,Malcolm Brogdon,Pts + Ast,27.5,-106,27.5,-120
+100,Jayson Tatum,Pts + Ast,30.5,-122,30.5,-104
+101,Jaylen Brown,Pts + Ast,29.5,-104,29.5,-122
+102,Kemba Walker,Pts + Ast,23.5,-104,23.5,-122
+103,Domantas Sabonis,Pts + Reb,33.5,-115,33.5,-111
+104,Malcolm Brogdon,Pts + Reb,26.5,-111,26.5,-115
+105,Myles Turner,Pts + Reb,19.5,-108,19.5,-118
+106,Justin Holiday,Pts + Reb,14.5,-108,14.5,-118
+107,Jayson Tatum,Pts + Reb,32.5,102,32.5,-130
+108,Jaylen Brown,Pts + Reb,30.5,-104,30.5,-122
+109,Domantas Sabonis,Pts + Reb + Ast,39.5,-108,39.5,-118
+110,Malcolm Brogdon,Pts + Reb + Ast,32.5,-111,32.5,-115
+111,Myles Turner,Pts + Reb + Ast,20.5,-113,20.5,-113
+112,Jayson Tatum,Pts + Reb + Ast,38.5,-108,38.5,-118
+113,Jaylen Brown,Pts + Reb + Ast,35.5,-108,35.5,-118
+114,Kemba Walker,Pts + Reb + Ast,27.5,-104,27.5,-122
+115,Justin Holiday,Pts + Ast,11.5,-128,11.5,100
+116,Doug McDermott,Pts + Ast,14.5,-122,14.5,-104
+117,Daniel Theis,Pts + Ast,9.5,-115,9.5,-111
+118,Kemba Walker,Pts + Reb,22.5,-115,22.5,-111
+119,Tristan Thompson,Pts + Reb,17.5,-113,17.5,-113
+120,Doug McDermott,Pts + Reb,17.5,-113,17.5,-113
+121,Daniel Theis,Pts + Reb,13.5,-115,13.5,-111
+122,Tristan Thompson,Pts + Reb + Ast,18.5,-118,18.5,-108
+123,Justin Holiday,Pts + Reb + Ast,16.5,-102,16.5,-125
+124,Doug McDermott,Pts + Reb + Ast,19.5,-102,19.5,-125
+125,Daniel Theis,Pts + Reb + Ast,15.5,-104,15.5,-122
+126,Justin Holiday,Reb + Ast,5.5,-118,5.5,-108
+127,Doug McDermott,Reb + Ast,5.5,-115,5.5,-111
+128,Daniel Theis,Reb + Ast,6.5,-128,6.5,100
+129,Trae Young,Points,28.5,-104,28.5,-118
+130,John Collins,Points,18.5,-104,18.5,-118
+131,Clint Capela,Points,16.5,-108,16.5,-112
+132,Shai Gilgeous-Alexander,Points,24.5,-116,24.5,-106
+133,Luguentz Dort,Points,14.5,-104,14.5,-118
+134,Darius Bazley,Points,12.5,-114,12.5,-108
+135,Isaiah Roby,Points,10.5,-106,10.5,-116
+136,Shai Gilgeous-Alexander,Assists,6.5,-104,6.5,-118
+137,Trae Young,Assists,9.5,-120,9.5,-102
+138,Shai Gilgeous-Alexander,Rebounds,6.5,112,6.5,-140
+139,Trae Young,Rebounds,4.5,116,4.5,-142
+140,John Collins,Reb + Ast,9.5,-125,9.5,-102
+141,Luguentz Dort,Rebounds,4.5,126,4.5,-154
+142,Luguentz Dort,Reb + Ast,5.5,-102,5.5,-125
+143,John Collins,Rebounds,8.5,104,8.5,-128
+144,Darius Bazley,Rebounds,7.5,114,7.5,-140
+145,Shai Gilgeous-Alexander,Reb + Ast,12.5,-118,12.5,-108
+146,Trae Young,Reb + Ast,13.5,-132,13.5,104
+147,Darius Bazley,Reb + Ast,8.5,-128,8.5,100
+148,Clint Capela,Rebounds,15.5,104,15.5,-128
+149,Clint Capela,Reb + Ast,16.5,114,16.5,-146
+150,Isaiah Roby,Rebounds,6.5,-105,6.5,-115
+151,Darius Bazley,Made Threes,1.5,-104,1.5,-122
+152,Trae Young,Made Threes,2.5,-120,2.5,-106
+153,Luguentz Dort,Made Threes,1.5,-156,1.5,122
+154,John Collins,Made Threes,1.5,132,1.5,-170
+155,Shai Gilgeous-Alexander,Made Threes,1.5,-210,1.5,162
+156,Trae Young,Pts + Ast,37.5,-120,37.5,-106
+157,John Collins,Pts + Ast,19.5,-118,19.5,-108
+158,Clint Capela,Pts + Ast,17.5,-113,17.5,-113
+159,Shai Gilgeous-Alexander,Pts + Ast,31.5,-111,31.5,-115
+160,Luguentz Dort,Pts + Ast,16.5,-102,16.5,-125
+161,Darius Bazley,Pts + Ast,14.5,-111,14.5,-115
+162,Trae Young,Pts + Reb,32.5,-113,32.5,-113
+163,John Collins,Pts + Reb,26.5,-115,26.5,-111
+164,Clint Capela,Pts + Reb,31.5,-120,31.5,-108
+165,Shai Gilgeous-Alexander,Pts + Reb,31.5,-106,31.5,-120
+166,Luguentz Dort,Pts + Reb,18.5,-113,18.5,-113
+167,Darius Bazley,Pts + Reb,19.5,-122,19.5,-104
+168,Trae Young,Pts + Reb + Ast,42.5,-111,42.5,-115
+169,John Collins,Pts + Reb + Ast,28.5,102,28.5,-130
+170,Clint Capela,Pts + Reb + Ast,32.5,-122,32.5,-104
+171,S Gilgeous-Alexander,Pts + Reb + Ast,37.5,-113,37.5,-113
+172,Luguentz Dort,Pts + Reb + Ast,20.5,-113,20.5,-113
+173,Darius Bazley,Pts + Reb + Ast,21.5,-118,21.5,-108
+174,Isaiah Roby,Pts + Ast,11.5,-113,11.5,-113
+175,Isaiah Roby,Pts + Reb,17.5,-102,17.5,-125
+176,Isaiah Roby,Pts + Reb + Ast,18.5,-106,18.5,-120
+177,Isaiah Roby,Reb + Ast,7.5,-118,7.5,-108
+178,Dillon Brooks,Points,14.5,-120,14.5,-102
+179,Grayson Allen,Points,9.5,-120,9.5,-102
+180,Jonas Valanciunas,Points,14.5,-122,14.5,100
+181,Kyle Anderson,Points,11.5,-110,11.5,-110
+182,Ja Morant,Points,18.5,-118,18.5,-104
+183,Kawhi Leonard,Points,26.5,-110,26.5,-110
+184,Nicolas Batum,Points,6.5,-122,6.5,100
+185,Patrick Beverley,Points,7.5,-108,7.5,-112
+186,Ja Morant,Assists,7.5,-118,7.5,-104
+187,Kyle Anderson,Assists,3.5,134,3.5,-164
+188,Nicolas Batum,Assists,2.5,130,2.5,-160
+189,Kawhi Leonard,Assists,4.5,-106,4.5,-114
+190,Patrick Beverley,Assists,2.5,122,2.5,-150
+191,Dillon Brooks,Reb + Ast,4.5,-125,4.5,-102
+192,Grayson Allen,Reb + Ast,4.5,-118,4.5,-108
+193,Dillon Brooks,Rebounds,2.5,-118,2.5,-104
+194,Grayson Allen,Rebounds,2.5,-120,2.5,-102
+195,Kyle Anderson,Reb + Ast,8.5,-120,8.5,-108
+196,Jonas Valanciunas,Reb + Ast,13.5,106,13.5,-136
+197,Ja Morant,Rebounds,3.5,-150,3.5,122
+198,Ja Morant,Reb + Ast,11.5,-125,11.5,-102
+199,Jonas Valanciunas,Rebounds,10.5,-134,10.5,110
+200,Kyle Anderson,Rebounds,5.5,-102,5.5,-120
+201,Kawhi Leonard,Reb + Ast,11.5,100,11.5,-128
+202,Nicolas Batum,Rebounds,4.5,108,4.5,-132
+203,Kawhi Leonard,Rebounds,6.5,-140,6.5,114
+204,Patrick Beverley,Rebounds,3.5,-106,3.5,-114
+205,Serge Ibaka,Rebounds,5.5,-132,5.5,108
+206,Paul George,Rebounds,6.5,112,6.5,-138
+207,Dillon Brooks,Made Threes,1.5,-128,1.5,100
+208,Grayson Allen,Made Threes,1.5,-148,1.5,116
+209,Ja Morant,Made Threes,0.5,-215,0.5,164
+210,Kyle Anderson,Made Threes,1.5,140,1.5,-180
+211,Nicolas Batum,Made Threes,1.5,100,1.5,-128
+212,Kawhi Leonard,Made Threes,2.5,144,2.5,-186
+213,Serge Ibaka,Made Threes,1.5,176,1.5,-230
+214,Paul George,Made Threes,3.5,112,3.5,-142
+215,Patrick Beverley,Made Threes,1.5,108,1.5,-138
+216,Serge Ibaka,Points,9.5,-112,9.5,-108
+217,Paul George,Points,23.5,-106,23.5,-116
+218,Dillon Brooks,Pts + Ast,16.5,-125,16.5,-102
+219,Grayson Allen,Pts + Ast,11.5,-122,11.5,-104
+220,Jonas Valanciunas,Pts + Ast,16.5,-122,16.5,-104
+221,Kyle Anderson,Pts + Ast,14.5,-122,14.5,-104
+222,Ja Morant,Pts + Ast,26.5,-113,26.5,-113
+223,Kawhi Leonard,Pts + Ast,31.5,-106,31.5,-120
+224,Dillon Brooks,Pts + Reb,17.5,-120,17.5,-108
+225,Grayson Allen,Pts + Reb,12.5,-118,12.5,-108
+226,Jonas Valanciunas,Pts + Reb,26.5,-106,26.5,-120
+227,Kyle Anderson,Pts + Reb,17.5,-104,17.5,-122
+228,Ja Morant,Pts + Reb,23.5,-104,23.5,-122
+229,Kawhi Leonard,Pts + Reb,33.5,-115,33.5,-111
+230,Dillon Brooks,Pts + Reb + Ast,19.5,-118,19.5,-108
+231,Grayson Allen,Pts + Reb + Ast,14.5,-115,14.5,-111
+232,Jonas Valanciunas,Pts + Reb + Ast,28.5,-106,28.5,-120
+233,Kyle Anderson,Pts + Reb + Ast,20.5,-113,20.5,-113
+234,Ja Morant,Pts + Reb + Ast,30.5,-120,30.5,-106
+235,Kawhi Leonard,Pts + Reb + Ast,38.5,-113,38.5,-115
+236,Paul George,Assists,4.5,-138,4.5,112
+237,Nicolas Batum,Pts + Ast,9.5,100,9.5,-128
+238,Patrick Beverley,Pts + Ast,9.5,-128,9.5,100
+239,Serge Ibaka,Pts + Ast,10.5,-122,10.5,-104
+240,Paul George,Pts + Ast,28.5,-111,28.5,-115
+241,Nicolas Batum,Pts + Reb,11.5,-104,11.5,-122
+242,Patrick Beverley,Pts + Reb,11.5,-104,11.5,-120
+243,Serge Ibaka,Pts + Reb,15.5,-118,15.5,-108
+244,Paul George,Pts + Reb,29.5,-118,29.5,-108
+245,Nicolas Batum,Pts + Reb + Ast,13.5,-115,13.5,-111
+246,Patrick Beverley,Pts + Reb + Ast,13.5,-115,13.5,-111
+247,Serge Ibaka,Pts + Reb + Ast,16.5,-122,16.5,-104
+248,Paul George,Pts + Reb + Ast,34.5,-118,34.5,-108
+249,Nicolas Batum,Reb + Ast,6.5,-115,6.5,-111
+250,Patrick Beverley,Reb + Ast,5.5,-136,5.5,106
+251,Serge Ibaka,Reb + Ast,7.5,112,7.5,-142
+252,Paul George,Reb + Ast,11.5,102,11.5,-130
+253,Devin Booker,Points,26.5,-118,26.5,-104
+254,Chris Paul,Points,16.5,-112,16.5,-108
+255,Deandre Ayton,Points,15.5,-104,15.5,-118
+256,Mikal Bridges,Points,12.5,-102,12.5,-120
+257,Zach LaVine,Points,29.5,-118,29.5,-104
+258,Coby White,Points,15.5,-110,15.5,-110
+259,Wendell Carter,Points,13.5,104,13.5,-128
+260,Patrick Williams,Points,10.5,-124,10.5,102
+261,Devin Booker,Assists,4.5,110,4.5,-134
+262,Chris Paul,Assists,8.5,-122,8.5,100
+263,Zach LaVine,Assists,4.5,112,4.5,-138
+264,Coby White,Assists,4.5,100,4.5,-122
+265,Devin Booker,Rebounds,4.5,116,4.5,-142
+266,Zach LaVine,Reb + Ast,9.5,-118,9.5,-108
+267,Coby White,Rebounds,4.5,110,4.5,-134
+268,Wendell Carter,Rebounds,8.5,-105,8.5,-115
+269,Deandre Ayton,Rebounds,11.5,-106,11.5,-114
+270,Patrick Williams,Rebounds,5.5,110,5.5,-134
+271,Chris Paul,Rebounds,4.5,100,4.5,-122
+272,Deandre Ayton,Reb + Ast,12.5,-128,12.5,100
+273,Devin Booker,Reb + Ast,8.5,-115,8.5,-111
+274,Mikal Bridges,Reb + Ast,6.5,-113,6.5,-113
+275,Zach LaVine,Rebounds,5.5,106,5.5,-130
+276,Mikal Bridges,Rebounds,4.5,106,4.5,-130
+277,Chris Paul,Reb + Ast,13.5,100,13.5,-128
+278,Coby White,Reb + Ast,8.5,-125,8.5,-102
+279,Garrett Temple,Rebounds,3.5,-138,3.5,112
+280,Chris Paul,Made Threes,1.5,-115,1.5,-111
+281,Mikal Bridges,Made Threes,1.5,-132,1.5,104
+282,Garrett Temple,Made Threes,1.5,132,1.5,-170
+283,Zach LaVine,Made Threes,3.5,112,3.5,-142
+284,Devin Booker,Made Threes,2.5,116,2.5,-148
+285,Coby White,Made Threes,2.5,120,2.5,-154
+286,Garrett Temple,Points,9.5,100,9.5,-122
+287,Devin Booker,Pts + Ast,31.5,-111,31.5,-115
+288,Chris Paul,Pts + Ast,25.5,-115,25.5,-111
+289,Deandre Ayton,Pts + Ast,16.5,-115,16.5,-111
+290,Mikal Bridges,Pts + Ast,14.5,-113,14.5,-113
+291,Zach LaVine,Pts + Ast,34.5,-104,34.5,-122
+292,Coby White,Pts + Ast,20.5,-104,20.5,-122
+293,Devin Booker,Pts + Reb,31.5,-108,31.5,-118
+294,Chris Paul,Pts + Reb,21.5,-108,21.5,-120
+295,Deandre Ayton,Pts + Reb,27.5,-104,27.5,-122
+296,Mikal Bridges,Pts + Reb,16.5,-120,16.5,-106
+297,Zach LaVine,Pts + Reb,35.5,-108,35.5,-118
+298,Coby White,Pts + Reb,20.5,-104,20.5,-122
+299,Devin Booker,Pts + Reb + Ast,35.5,-118,35.5,-108
+300,Chris Paul,Pts + Reb + Ast,30.5,-106,30.5,-120
+301,Deandre Ayton,Pts + Reb + Ast,28.5,-113,28.5,-113
+302,Mikal Bridges,Pts + Reb + Ast,19.5,-104,19.5,-122
+303,Zach LaVine,Pts + Reb + Ast,39.5,-115,39.5,-111
+304,Coby White,Pts + Reb + Ast,24.5,-118,24.5,-108
+305,Wendell Carter,Pts + Ast,14.5,-128,14.5,100
+306,Patrick Williams,Pts + Ast,12.5,-104,12.5,-120
+307,Garrett Temple,Pts + Ast,10.5,-128,10.5,100
+308,Wendell Carter,Pts + Reb,21.5,-118,21.5,-108
+309,Patrick Williams,Pts + Reb,16.5,-108,16.5,-118
+310,Garrett Temple,Pts + Reb,13.5,-102,13.5,-125
+311,Wendell Carter,Pts + Reb + Ast,23.5,-115,23.5,-111
+312,Patrick Williams,Pts + Reb + Ast,17.5,-115,17.5,-111
+313,Garrett Temple,Pts + Reb + Ast,14.5,-122,14.5,-104
+314,Wendell Carter,Reb + Ast,10.5,-106,10.5,-120
+315,Patrick Williams,Reb + Ast,6.5,-115,6.5,-111
+316,Garrett Temple,Reb + Ast,5.5,-113,5.5,-113
+317,De'Aaron Fox,Points,24.5,-112,24.5,-110
+318,Buddy Hield,Points,16.5,100,16.5,-122
+319,Harrison Barnes,Points,15.5,-106,15.5,-116
+320,Marvin Bagley,Points,15.5,102,15.5,-124
+321,Richaun Holmes,Points,11.5,-118,11.5,-104
+322,Jerami Grant,Points,24.5,-106,24.5,-116
+323,Mason Plumlee,Points,12.5,-102,12.5,-120
+324,De'Aaron Fox,Assists,7.5,-144,7.5,118
+325,Buddy Hield,Assists,2.5,-128,2.5,104
+326,Harrison Barnes,Assists,2.5,-150,2.5,122
+327,Jerami Grant,Assists,3.5,124,3.5,-152
+328,Mason Plumlee,Assists,4.5,112,4.5,-138
+329,De'Aaron Fox,Reb + Ast,12.5,106,12.5,-136
+330,De'Aaron Fox,Rebounds,3.5,-138,3.5,112
+331,Buddy Hield,Reb + Ast,7.5,-106,7.5,-120
+332,Buddy Hield,Rebounds,4.5,-110,4.5,-110
+333,Richaun Holmes,Reb + Ast,9.5,-136,9.5,106
+334,Harrison Barnes,Reb + Ast,8.5,-130,8.5,102
+335,Marvin Bagley,Reb + Ast,10.5,110,10.5,-140
+336,Harrison Barnes,Rebounds,5.5,-130,5.5,106
+337,Richaun Holmes,Rebounds,8.5,-104,8.5,-118
+338,Marvin Bagley,Rebounds,8.5,-128,8.5,104
+339,Jerami Grant,Rebounds,4.5,-144,4.5,118
+340,Jerami Grant,Reb + Ast,8.5,-102,8.5,-125
+341,Mason Plumlee,Rebounds,10.5,108,10.5,-132
+342,De'Aaron Fox,Made Threes,1.5,-162,1.5,126
+343,Buddy Hield,Made Threes,3.5,100,3.5,-128
+344,Harrison Barnes,Made Threes,1.5,-113,1.5,-113
+345,Jerami Grant,Made Threes,2.5,-113,2.5,-113
+346,De'Aaron Fox,Pts + Ast,32.5,-115,32.5,-111
+347,Buddy Hield,Pts + Ast,18.5,-125,18.5,-102
+348,Harrison Barnes,Pts + Ast,18.5,-111,18.5,-115
+349,Marvin Bagley,Pts + Ast,16.5,-106,16.5,-120
+350,Richaun Holmes,Pts + Ast,13.5,-108,13.5,-118
+351,Jerami Grant,Pts + Ast,27.5,-115,27.5,-111
+352,De'Aaron Fox,Pts + Reb,28.5,-115,28.5,-111
+353,Buddy Hield,Pts + Reb,20.5,-122,20.5,-104
+354,Harrison Barnes,Pts + Reb,21.5,-111,21.5,-115
+355,Marvin Bagley,Pts + Reb,24.5,-108,24.5,-120
+356,Richaun Holmes,Pts + Reb,20.5,-111,20.5,-115
+357,Jerami Grant,Pts + Reb,29.5,-115,29.5,-111
+358,De'Aaron Fox,Pts + Reb + Ast,36.5,-120,36.5,-106
+359,Buddy Hield,Pts + Reb + Ast,23.5,-120,23.5,-106
+360,Harrison Barnes,Pts + Reb + Ast,24.5,-113,24.5,-113
+361,Marvin Bagley,Pts + Reb + Ast,25.5,-113,25.5,-113
+362,Richaun Holmes,Pts + Reb + Ast,21.5,-122,21.5,-104
+363,Jerami Grant,Pts + Reb + Ast,32.5,-120,32.5,-106
+364,Mason Plumlee,Pts + Ast,16.5,-115,16.5,-111
+365,Mason Plumlee,Pts + Reb,22.5,-115,22.5,-111
+366,Mason Plumlee,Pts + Reb + Ast,26.5,-122,26.5,-104
+367,Mason Plumlee,Reb + Ast,14.5,-115,14.5,-111
+368,Donovan Mitchell,Points,24.5,-110,24.5,-110
+369,Jordan Clarkson,Points,16.5,-120,16.5,-102
+370,Bojan Bogdanovic,Points,15.5,-108,15.5,-112
+371,Mike Conley,Points,15.5,-106,15.5,-116
+372,Rudy Gobert,Points,13.5,-108,13.5,-112
+373,Joe Ingles,Points,9.5,-128,9.5,106
+374,Royce O'Neale,Points,7.5,-116,7.5,-106
+375,Duncan Robinson,Points,12.5,-116,12.5,-104
+376,Joe Ingles,Assists,3.5,-132,3.5,108
+377,Mike Conley,Assists,5.5,124,5.5,-152
+378,Donovan Mitchell,Assists,5.5,-102,5.5,-120
+379,Mike Conley,Reb + Ast,8.5,-125,8.5,-102
+380,Bojan Bogdanovic,Rebounds,3.5,-122,3.5,100
+381,Joe Ingles,Rebounds,2.5,-142,2.5,116
+382,Rudy Gobert,Rebounds,12.5,-140,12.5,112
+383,Royce O'Neale,Rebounds,6.5,-102,6.5,-120
+384,Jordan Clarkson,Rebounds,3.5,106,3.5,-130
+385,Bojan Bogdanovic,Reb + Ast,5.5,-111,5.5,-115
+386,Rudy Gobert,Reb + Ast,14.5,102,14.5,-130
+387,Donovan Mitchell,Reb + Ast,10.5,106,10.5,-136
+388,Joe Ingles,Reb + Ast,6.5,-125,6.5,-102
+389,Mike Conley,Rebounds,3.5,-110,3.5,-110
+390,Donovan Mitchell,Rebounds,4.5,-110,4.5,-110
+391,Jordan Clarkson,Reb + Ast,5.5,-104,5.5,-122
+392,Kendrick Nunn,Rebounds,3.5,106,3.5,-130
+393,Jimmy Butler,Rebounds,7.5,-140,7.5,114
+394,Duncan Robinson,Rebounds,3.5,-114,3.5,-106
+395,Kelly Olynyk,Rebounds,5.5,112,5.5,-138
+396,Bojan Bogdanovic,Made Threes,2.5,-128,2.5,100
+397,Royce O'Neale,Made Threes,1.5,-132,1.5,104
+398,Jordan Clarkson,Made Threes,3.5,118,3.5,-150
+399,Donovan Mitchell,Made Threes,3.5,108,3.5,-138
+400,Joe Ingles,Made Threes,2.5,132,2.5,-170
+401,Mike Conley,Made Threes,2.5,-113,2.5,-113
+402,Kendrick Nunn,Made Threes,2.5,126,2.5,-162
+403,Duncan Robinson,Made Threes,2.5,-188,2.5,146
+404,Kelly Olynyk,Made Threes,1.5,-174,1.5,136
+405,Jimmy Butler,Points,21.5,-120,21.5,-102
+406,Kelly Olynyk,Points,10.5,-108,10.5,-112
+407,Kendrick Nunn,Points,13.5,-110,13.5,-110
+408,Donovan Mitchell,Pts + Ast,30.5,-102,30.5,-125
+409,Jordan Clarkson,Pts + Ast,18.5,-125,18.5,-102
+410,Bojan Bogdanovic,Pts + Ast,17.5,-106,17.5,-120
+411,Mike Conley,Pts + Ast,20.5,-113,20.5,-113
+412,Rudy Gobert,Pts + Ast,14.5,-115,14.5,-111
+413,Joe Ingles,Pts + Ast,13.5,-122,13.5,-104
+414,Donovan Mitchell,Pts + Reb,29.5,-106,29.5,-120
+415,Jordan Clarkson,Pts + Reb,20.5,-111,20.5,-115
+416,Bojan Bogdanovic,Pts + Reb,19.5,-106,19.5,-120
+417,Mike Conley,Pts + Reb,19.5,-102,19.5,-125
+418,Rudy Gobert,Pts + Reb,26.5,-115,26.5,-111
+419,Joe Ingles,Pts + Reb,12.5,-130,12.5,102
+420,Donovan Mitchell,Pts + Reb + Ast,34.5,-115,34.5,-111
+421,Jordan Clarkson,Pts + Reb + Ast,22.5,-113,22.5,-113
+422,Bojan Bogdanovic,Pts + Reb + Ast,21.5,-104,21.5,-122
+423,Mike Conley,Pts + Reb + Ast,24.5,-111,24.5,-115
+424,Rudy Gobert,Pts + Reb + Ast,27.5,-120,27.5,-106
+425,Joe Ingles,Pts + Reb + Ast,16.5,-122,16.5,-104
+426,Jimmy Butler,Assists,7.5,110,7.5,-134
+427,Kendrick Nunn,Assists,2.5,110,2.5,-134
+428,Royce O'Neale,Pts + Ast,9.5,-122,9.5,-104
+429,Duncan Robinson,Pts + Ast,14.5,-113,14.5,-113
+430,Jimmy Butler,Pts + Ast,29.5,-106,29.5,-120
+431,Kelly Olynyk,Pts + Ast,12.5,-104,12.5,-122
+432,Kendrick Nunn,Pts + Ast,15.5,-125,15.5,-102
+433,Royce O'Neale,Pts + Reb,14.5,-102,14.5,-125
+434,Duncan Robinson,Pts + Reb,16.5,-111,16.5,-115
+435,Jimmy Butler,Pts + Reb,30.5,-106,30.5,-120
+436,Kelly Olynyk,Pts + Reb,15.5,-125,15.5,-102
+437,Kendrick Nunn,Pts + Reb,16.5,-125,16.5,-102
+438,Royce O'Neale,Pts + Reb + Ast,16.5,-106,16.5,-120
+439,Duncan Robinson,Pts + Reb + Ast,18.5,-106,18.5,-120
+440,Jimmy Butler,Pts + Reb + Ast,37.5,-113,37.5,-113
+441,Kelly Olynyk,Pts + Reb + Ast,17.5,-120,17.5,-106
+442,Kendrick Nunn,Pts + Reb + Ast,19.5,-111,19.5,-115
+443,Royce O'Neale,Reb + Ast,8.5,-113,8.5,-113
+444,Duncan Robinson,Reb + Ast,5.5,100,5.5,-128
+445,Jimmy Butler,Reb + Ast,15.5,-108,15.5,-118
+446,Kelly Olynyk,Reb + Ast,7.5,112,7.5,-142
+447,Kendrick Nunn,Reb + Ast,5.5,-128,5.5,100
+448,Gordon Hayward,Points,20.5,-106,20.5,-116
+449,Terry Rozier,Points,21.5,-108,21.5,-114
+450,LaMelo Ball,Points,18.5,-106,18.5,-114
+451,Stephen Curry,Points,30.5,-110,30.5,-110
+452,Andrew Wiggins,Points,18.5,100,18.5,-122
+453,Kelly Oubre Jr,Points,18.5,-102,18.5,-118
+454,Draymond Green,Points,7.5,100,7.5,-122
+455,Kelly Oubre Jr,Assists,1.5,106,1.5,-130
+456,LaMelo Ball,Assists,7.5,104,7.5,-128
+457,Terry Rozier,Assists,3.5,-130,3.5,106
+458,Andrew Wiggins,Assists,2.5,106,2.5,-130
+459,Gordon Hayward,Assists,3.5,-154,3.5,126
+460,Stephen Curry,Assists,6.5,-132,6.5,108
+461,Draymond Green,Assists,10.5,122,10.5,-150
+462,Andrew Wiggins,Rebounds,4.5,120,4.5,-148
+463,Terry Rozier,Reb + Ast,7.5,-142,7.5,112
+464,LaMelo Ball,Rebounds,6.5,-142,6.5,116
+465,Draymond Green,Rebounds,6.5,-140,6.5,114
+466,Kelly Oubre Jr,Rebounds,6.5,100,6.5,-120
+467,Gordon Hayward,Reb + Ast,9.5,-128,9.5,100
+468,Terry Rozier,Rebounds,4.5,118,4.5,-144
+469,Gordon Hayward,Rebounds,5.5,-118,5.5,-104
+470,Stephen Curry,Reb + Ast,12.5,102,12.5,-130
+471,Stephen Curry,Rebounds,5.5,116,5.5,-142
+472,LaMelo Ball,Reb + Ast,14.5,-111,14.5,-115
+473,Kevon Looney,Rebounds,5.5,118,5.5,-144
+474,P.J Washington,Rebounds,6.5,-120,6.5,-102
+475,Gordon Hayward,Made Threes,1.5,-184,1.5,140
+476,Kelly Oubre Jr,Made Threes,2.5,134,2.5,-172
+477,LaMelo Ball,Made Threes,2.5,132,2.5,-170
+478,Stephen Curry,Made Threes,5.5,-108,5.5,-118
+479,Andrew Wiggins,Made Threes,1.5,-200,1.5,154
+480,Terry Rozier,Made Threes,3.5,-102,3.5,-125
+481,P.J Washington,Made Threes,1.5,132,1.5,-170
+482,P.J Washington,Points,12.5,102,12.5,-126
+483,Gordon Hayward,Pts + Ast,24.5,-113,24.5,-113
+484,Terry Rozier,Pts + Ast,25.5,-108,25.5,-118
+485,LaMelo Ball,Pts + Ast,25.5,-118,25.5,-108
+486,Stephen Curry,Pts + Ast,37.5,-113,37.5,-113
+487,Andrew Wiggins,Pts + Ast,20.5,-113,20.5,-113
+488,Kelly Oubre Jr,Pts + Ast,19.5,-118,19.5,-108
+489,Gordon Hayward,Pts + Reb,26.5,-111,26.5,-115
+490,Terry Rozier,Pts + Reb,25.5,-118,25.5,-108
+491,LaMelo Ball,Pts + Reb,25.5,-115,25.5,-111
+492,Stephen Curry,Pts + Reb,35.5,-120,35.5,-106
+493,Andrew Wiggins,Pts + Reb,22.5,-111,22.5,-115
+494,Kelly Oubre Jr,Pts + Reb,24.5,-118,24.5,-108
+495,Gordon Hayward,Pts + Reb + Ast,30.5,-113,30.5,-113
+496,Terry Rozier,Pts + Reb + Ast,29.5,-118,29.5,-108
+497,LaMelo Ball,Pts + Reb + Ast,33.5,-106,33.5,-120
+498,Stephen Curry,Pts + Reb + Ast,42.5,-118,42.5,-108
+499,Andrew Wiggins,Pts + Reb + Ast,24.5,100,24.5,-128
+500,Kelly Oubre Jr,Pts + Reb + Ast,26.5,-111,26.5,-115
+501,P.J Washington,Assists,3.5,120,3.5,-148
+502,Draymond Green,Pts + Ast,17.5,-115,17.5,-111
+503,Kevon Looney,Pts + Ast,6.5,-108,6.5,-118
+504,P.J Washington,Pts + Ast,15.5,-113,15.5,-113
+505,Draymond Green,Pts + Reb,14.5,-113,14.5,-113
+506,Kevon Looney,Pts + Reb,9.5,-120,9.5,-106
+507,P.J Washington,Pts + Reb,19.5,-104,19.5,-122
+508,Draymond Green,Pts + Reb + Ast,24.5,-108,24.5,-118
+509,Kevon Looney,Pts + Reb + Ast,11.5,-120,11.5,-106
+510,P.J Washington,Pts + Reb + Ast,22.5,-113,22.5,-113
+511,Draymond Green,Reb + Ast,17.5,-106,17.5,-120
+512,Kevon Looney,Reb + Ast,7.5,112,7.5,-142
+513,P.J Washington,Reb + Ast,10.5,104,10.5,-132
+514,Damian Lillard,Points,30.5,-116,30.5,-106
+515,Gary Trent Jr.,Points,16.5,-118,16.5,-104
+516,Enes Kanter,Points,12.5,-116,12.5,-106
+517,Derrick Jones Jr,Points,8.5,-116,8.5,-106
+518,Robert Covington,Points,8.5,106,8.5,-128
+519,LeBron James,Points,28.5,-108,28.5,-112
+520,Dennis Schroder,Points,16.5,-102,16.5,-120
+521,Kyle Kuzma,Points,14.5,-104,14.5,-118
+522,Marc Gasol,Assists,2.5,136,2.5,-168
+523,Dennis Schroder,Assists,4.5,116,4.5,-142
+524,Damian Lillard,Assists,8.5,-106,8.5,-114
+525,LeBron James,Assists,8.5,-128,8.5,104
+526,Enes Kanter,Reb + Ast,13.5,-104,13.5,-122
+527,Dennis Schroder,Rebounds,3.5,-152,3.5,124
+528,Enes Kanter,Rebounds,12.5,102,12.5,-124
+529,Dennis Schroder,Reb + Ast,8.5,-108,8.5,-118
+530,Gary Trent Jr.,Rebounds,2.5,130,2.5,-160
+531,Kyle Kuzma,Rebounds,7.5,110,7.5,-134
+532,Derrick Jones Jr,Rebounds,4.5,-148,4.5,120
+533,LeBron James,Reb + Ast,17.5,-128,17.5,100
+534,Robert Covington,Reb + Ast,8.5,110,8.5,-140
+535,Damian Lillard,Reb + Ast,13.5,106,13.5,-136
+536,Robert Covington,Rebounds,6.5,-104,6.5,-118
+537,Damian Lillard,Rebounds,4.5,100,4.5,-122
+538,Marc Gasol,Rebounds,4.5,104,4.5,-128
+539,LeBron James,Rebounds,8.5,-134,8.5,110
+540,Gary Trent Jr.,Reb + Ast,3.5,-122,3.5,-104
+541,Damian Lillard,Made Threes,3.5,-162,3.5,126
+542,Kyle Kuzma,Made Threes,1.5,-154,1.5,120
+543,Gary Trent Jr.,Made Threes,3.5,112,3.5,-142
+544,Kentavious Caldwell-Pope,Made Threes,1.5,-120,1.5,-106
+545,Robert Covington,Made Threes,1.5,-130,1.5,100
+546,LeBron James,Made Threes,1.5,-205,1.5,158
+547,Kentavious Caldwell-Pope,Points,9.5,-124,9.5,102
+548,Marc Gasol,Points,6.5,-104,6.5,-118
+549,Damian Lillard,Pts + Ast,39.5,-111,39.5,-115
+550,Gary Trent Jr.,Pts + Ast,18.5,-108,18.5,-118
+551,Enes Kanter,Pts + Ast,13.5,-120,13.5,-106
+552,Robert Covington,Pts + Ast,9.5,-122,9.5,-104
+553,LeBron James,Pts + Ast,37.5,-113,37.5,-113
+554,Dennis Schroder,Pts + Ast,20.5,-115,20.5,-111
+555,Damian Lillard,Pts + Reb,35.5,-111,35.5,-115
+556,Gary Trent Jr.,Pts + Reb,19.5,-104,19.5,-122
+557,Enes Kanter,Pts + Reb,25.5,-106,25.5,-120
+558,Derrick Jones Jr,Pts + Reb,13.5,-125,13.5,-102
+559,Robert Covington,Pts + Reb,14.5,-118,14.5,-108
+560,LeBron James,Pts + Reb,37.5,-115,37.5,-111
+561,Damian Lillard,Pts + Reb + Ast,44.5,-104,44.5,-122
+562,Gary Trent Jr.,Pts + Reb + Ast,20.5,-118,20.5,-108
+563,Enes Kanter,Pts + Reb + Ast,26.5,-106,26.5,-120
+564,Robert Covington,Pts + Reb + Ast,16.5,-111,16.5,-115
+565,LeBron James,Pts + Reb + Ast,46.5,-113,46.5,-113
+566,Dennis Schroder,Pts + Reb + Ast,24.5,-120,24.5,-108
+567,Kyle Kuzma,Pts + Ast,15.5,-113,15.5,-113
+568,Marc Gasol,Pts + Ast,8.5,-118,8.5,-108
+569,Dennis Schroder,Pts + Reb,20.5,-108,20.5,-118
+570,Kyle Kuzma,Pts + Reb,21.5,-111,21.5,-115
+571,Marc Gasol,Pts + Reb,10.5,-125,10.5,-102
+572,Kyle Kuzma,Pts + Reb + Ast,22.5,-120,22.5,-106
+573,Marc Gasol,Pts + Reb + Ast,13.5,-104,13.5,-122
+574,Kyle Kuzma,Reb + Ast,8.5,-111,8.5,-115
+575,Marc Gasol,Reb + Ast,6.5,104,6.5,-132

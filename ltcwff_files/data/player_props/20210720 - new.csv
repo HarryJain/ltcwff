@@ -1,0 +1,86 @@
+,Player,Prop,Over,Over Odds,Under,Under Odds
+0,bookede01,Points,31.5,-110,31.5,-110
+1,paulch01,Points,21.5,-104,21.5,-116
+2,aytonde01,Points,16.5,-110,16.5,-110
+3,bridgmi01,Points,11.5,104,11.5,-126
+4,crowdja01,Points,10.5,-118,10.5,-104
+5,antetgi01,Points,32.5,-116,32.5,-104
+6,middlkh01,Points,25.5,-110,25.5,-110
+7,holidjr01,Points,19.5,-118,19.5,-104
+8,lopezbr01,Points,11.5,100,11.5,-122
+9,tuckepj01,Points,4.5,-104,4.5,-118
+10,connapa01,Points,8.5,-108,8.5,-114
+11,portibo01,Points,7.5,-102,7.5,-120
+12,payneca01,Points,6.5,102,6.5,-126
+13,bookede01,Rebounds,4.5,-144,4.5,118
+14,paulch01,Rebounds,4.5,102,4.5,-124
+15,aytonde01,Rebounds,12.5,-110,12.5,-112
+16,bridgmi01,Rebounds,4.5,110,4.5,-134
+17,crowdja01,Rebounds,6.5,-114,6.5,-106
+18,antetgi01,Rebounds,13.5,112,13.5,-138
+19,middlkh01,Rebounds,7.5,114,7.5,-140
+20,holidjr01,Rebounds,5.5,116,5.5,-142
+21,lopezbr01,Rebounds,4.5,-132,4.5,108
+22,tuckepj01,Rebounds,4.5,-110,4.5,-110
+23,connapa01,Rebounds,4.5,-142,4.5,116
+24,johnsca02,Rebounds,3.5,130,3.5,-160
+25,bookede01,Assists,4.5,112,4.5,-140
+26,paulch01,Assists,9.5,114,9.5,-140
+27,aytonde01,Assists,1.5,126,1.5,-154
+28,bridgmi01,Assists,1.5,108,1.5,-132
+29,crowdja01,Assists,1.5,-124,1.5,102
+30,antetgi01,Assists,5.5,-128,5.5,104
+31,middlkh01,Assists,5.5,110,5.5,-134
+32,holidjr01,Assists,7.5,-144,7.5,118
+33,tuckepj01,Assists,1.5,190,1.5,-240
+34,bookede01,Made Threes,2.5,-102,2.5,-125
+35,paulch01,Made Threes,1.5,-200,1.5,154
+36,bridgmi01,Made Threes,1.5,-162,1.5,126
+37,crowdja01,Made Threes,2.5,-138,2.5,108
+38,antetgi01,Made Threes,0.5,-115,0.5,-111
+39,middlkh01,Made Threes,2.5,-150,2.5,118
+40,holidjr01,Made Threes,2.5,120,2.5,-154
+41,lopezbr01,Made Threes,0.5,-245,0.5,186
+42,tuckepj01,Made Threes,0.5,-265,0.5,200
+43,connapa01,Made Threes,1.5,-150,1.5,118
+44,bookede01,Pts + Ast,35.5,-122,35.5,-104
+45,paulch01,Pts + Ast,30.5,-111,30.5,-115
+46,aytonde01,Pts + Ast,17.5,-128,17.5,100
+47,bridgmi01,Pts + Ast,12.5,-120,12.5,-106
+48,crowdja01,Pts + Ast,12.5,-115,12.5,-111
+49,antetgi01,Pts + Ast,38.5,-115,38.5,-111
+50,middlkh01,Pts + Ast,30.5,-125,30.5,-102
+51,holidjr01,Pts + Ast,27.5,-122,27.5,-104
+52,lopezbr01,Pts + Ast,11.5,-113,11.5,-113
+53,tuckepj01,Pts + Ast,5.5,-118,5.5,-108
+54,bookede01,Pts + Reb,36.5,-115,36.5,-108
+55,paulch01,Pts + Reb,25.5,-120,25.5,-104
+56,aytonde01,Pts + Reb,29.5,-111,29.5,-115
+57,bridgmi01,Pts + Reb,15.5,-115,15.5,-111
+58,crowdja01,Pts + Reb,17.5,-118,17.5,-108
+59,antetgi01,Pts + Reb,46.5,-102,46.5,-125
+60,middlkh01,Pts + Reb,32.5,-122,32.5,-104
+61,holidjr01,Pts + Reb,25.5,-104,25.5,-122
+62,lopezbr01,Pts + Reb,16.5,-104,16.5,-122
+63,tuckepj01,Pts + Reb,9.5,102,9.5,-130
+64,connapa01,Pts + Reb,13.5,-118,13.5,-108
+65,bookede01,Reb + Ast,9.5,-108,9.5,-118
+66,paulch01,Reb + Ast,13.5,-113,13.5,-113
+67,aytonde01,Reb + Ast,13.5,-136,13.5,106
+68,bridgmi01,Reb + Ast,5.5,-130,5.5,102
+69,crowdja01,Reb + Ast,8.5,-111,8.5,-115
+70,antetgi01,Reb + Ast,18.5,-130,18.5,102
+71,middlkh01,Reb + Ast,12.5,-111,12.5,-115
+72,holidjr01,Reb + Ast,13.5,-102,13.5,-125
+73,lopezbr01,Reb + Ast,5.5,110,5.5,-140
+74,tuckepj01,Reb + Ast,5.5,-125,5.5,-102
+75,bookede01,Pts + Reb + Ast,41.5,-104,41.5,-122
+76,paulch01,Pts + Reb + Ast,34.5,-122,34.5,-104
+77,aytonde01,Pts + Reb + Ast,30.5,-120,30.5,-106
+78,bridgmi01,Pts + Reb + Ast,17.5,-102,17.5,-125
+79,crowdja01,Pts + Reb + Ast,19.5,-113,19.5,-113
+80,antetgi01,Pts + Reb + Ast,51.5,-122,51.5,-104
+81,middlkh01,Pts + Reb + Ast,38.5,-106,38.5,-120
+82,holidjr01,Pts + Reb + Ast,33.5,-108,33.5,-118
+83,lopezbr01,Pts + Reb + Ast,16.5,-113,16.5,-113
+84,tuckepj01,Pts + Reb + Ast,10.5,-104,10.5,-122
